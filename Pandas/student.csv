@@ -1,4 +1,7 @@
-Name,Age,Grade,Subject
-Alice,20,A,Math
-Bob,21,B,Science
-Charlie,22,A,English
+student_id,name,subject,marks
+101,Asha,Maths,88
+102,Rahul,Science,92
+103,Meera,English,76
+104,Arjun,Maths,85
+105,Diya,Science,90
+106,Kiran,English,79
