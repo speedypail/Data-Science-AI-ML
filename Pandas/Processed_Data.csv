@@ -1,0 +1,1001 @@
+Customer_ID,Name,Age,Gender,City,Product,Price,Quantity,PaymentType,Purchase_Date,Total_Amount,Age_Group,Year,Month,Region
+1,Chetan,39,Male,Chennai,Laptop,45042,3,UPI,2023-07-08,135126,Adult,2023,7,South
+2,Bala,39,Female,Hyderabad,Tablet,16621,5,Cash,2023-12-20,83105,Adult,2023,12,
+3,Jaya,39,Female,Hyderabad,Laptop,30794,1,Card,2023-07-04,30794,Adult,2023,7,
+4,Hari,39,Male,Hyderabad,Laptop,49912,2,Cash,2023-06-29,99824,Adult,2023,6,
+5,Isha,45,Male,Kochi,Tablet,20258,2,Cash,2023-10-08,40516,Adult,2023,10,
+6,Farhan,39,Male,Kochi,Camera,25157,1,Cash,2023-01-09,25157,Adult,2023,1,
+7,Arun,39,Male,Trivandrum,Camera,18287,1,Cash,2023-02-04,18287,Adult,2023,2,
+8,Isha,39,Female,Bangalore,Laptop,49675,5,UPI,2023-05-25,248375,Adult,2023,5,South
+9,Divya,43,Male,Chennai,Headphones,5485,3,Card,2023-12-08,16455,Adult,2023,12,South
+10,Chetan,39,Male,Bangalore,Camera,25442,4,Card,2023-12-24,101768,Adult,2023,12,South
+11,Gopi,39,Female,Bangalore,Laptop,12669,3,Cash,2023-08-30,38007,Adult,2023,8,South
+12,Arun,23,Male,Bangalore,Tablet,5233,1,Cash,2023-07-28,5233,Young Adult,2023,7,South
+13,Arun,39,Female,Kochi,Headphones,23958,5,Cash,2023-04-07,119790,Adult,2023,4,
+14,Isha,25,Male,Hyderabad,Headphones,5112,3,UPI,2023-11-21,15336,Young Adult,2023,11,
+15,Bala,39,Male,Kochi,Camera,42843,1,Card,2023-11-13,42843,Adult,2023,11,
+16,Gopi,39,Male,Chennai,Tablet,12415,5,UPI,2023-01-21,62075,Adult,2023,1,South
+17,Jaya,39,Female,Bangalore,Mobile,44114,3,UPI,2023-02-20,132342,Adult,2023,2,South
+18,Esha,60,Female,Bangalore,Camera,5617,2,Cash,2023-12-30,11234,Senior,2023,12,South
+19,Esha,39,Male,Trivandrum,Camera,27198,3,Cash,2023-04-04,81594,Adult,2023,4,
+20,Farhan,39,Male,Kochi,Headphones,41910,1,UPI,2023-11-25,41910,Adult,2023,11,
+21,Farhan,41,Female,Bangalore,Mobile,30531,5,Cash,2023-11-14,152655,Adult,2023,11,South
+22,Esha,34,Male,Kochi,Laptop,16418,2,Card,2023-05-22,32836,Young Adult,2023,5,
+23,Farhan,55,Female,Hyderabad,Tablet,42936,3,Card,2023-02-01,128808,Senior,2023,2,
+24,Hari,39,Female,Trivandrum,Laptop,13315,4,UPI,2023-01-06,53260,Adult,2023,1,
+25,Arun,35,Female,Chennai,Headphones,45381,4,UPI,2023-08-22,181524,Young Adult,2023,8,South
+26,Arun,39,Male,Bangalore,Headphones,8056,5,UPI,2023-08-18,40280,Adult,2023,8,South
+27,Hari,20,Male,Trivandrum,Tablet,5110,2,Cash,2023-09-25,10220,Young Adult,2023,9,
+28,Arun,48,Male,Bangalore,Tablet,11152,1,Cash,2023-10-11,11152,Adult,2023,10,South
+29,Gopi,59,Male,Bangalore,Mobile,37959,3,UPI,2023-07-18,113877,Senior,2023,7,South
+30,Bala,39,Female,Trivandrum,Mobile,21779,2,Card,2023-09-16,43558,Adult,2023,9,
+31,Divya,21,Male,Chennai,Mobile,1663,2,Card,2023-04-03,3326,Young Adult,2023,4,South
+32,Jaya,39,Male,Trivandrum,Headphones,4635,4,UPI,2023-09-05,18540,Adult,2023,9,
+33,Hari,30,Female,Chennai,Camera,32828,4,UPI,2023-02-13,131312,Young Adult,2023,2,South
+34,Chetan,39,Female,Bangalore,Tablet,34752,4,Card,2023-11-03,139008,Adult,2023,11,South
+35,Hari,39,Female,Trivandrum,Laptop,14127,5,Cash,2023-05-14,70635,Adult,2023,5,
+36,Farhan,39,Female,Kochi,Laptop,38922,4,Cash,2023-04-21,155688,Adult,2023,4,
+37,Esha,42,Female,Kochi,Tablet,37986,5,UPI,2023-09-11,189930,Adult,2023,9,
+38,Farhan,39,Female,Chennai,Laptop,40694,5,UPI,2023-12-15,203470,Adult,2023,12,South
+39,Divya,52,Male,Trivandrum,Tablet,30124,1,Card,2023-10-05,30124,Senior,2023,10,
+40,Bala,50,Male,Kochi,Laptop,10069,1,Card,2023-01-04,10069,Adult,2023,1,
+41,Divya,39,Male,Kochi,Tablet,15878,5,UPI,2023-12-02,79390,Adult,2023,12,
+42,Hari,39,Female,Chennai,Camera,11661,2,Cash,2023-02-22,23322,Adult,2023,2,South
+43,Esha,39,Male,Hyderabad,Camera,43358,2,Cash,2023-12-29,86716,Adult,2023,12,
+44,Arun,32,Female,Hyderabad,Tablet,13352,5,Card,2023-01-20,66760,Young Adult,2023,1,
+45,Isha,29,Female,Bangalore,Headphones,578,4,UPI,2023-10-06,2312,Young Adult,2023,10,South
+46,Hari,21,Male,Hyderabad,Laptop,19005,2,Card,2023-07-27,38010,Young Adult,2023,7,
+47,Farhan,39,Male,Hyderabad,Headphones,48551,3,Cash,2023-02-08,145653,Adult,2023,2,
+48,Bala,39,Female,Kochi,Headphones,21462,5,Cash,2023-02-27,107310,Adult,2023,2,
+49,Divya,21,Female,Chennai,Camera,40418,2,UPI,2023-01-21,80836,Young Adult,2023,1,South
+50,Farhan,56,Male,Kochi,Headphones,37486,4,Card,2023-04-14,149944,Senior,2023,4,
+51,Hari,32,Male,Hyderabad,Camera,9014,4,UPI,2023-08-31,36056,Young Adult,2023,8,
+52,Bala,23,Female,Trivandrum,Tablet,37375,3,UPI,2023-11-07,112125,Young Adult,2023,11,
+53,Chetan,39,Male,Trivandrum,Tablet,25349,4,UPI,2023-02-24,101396,Adult,2023,2,
+54,Chetan,39,Female,Trivandrum,Headphones,24362,2,Cash,2023-11-06,48724,Adult,2023,11,
+55,Esha,57,Male,Chennai,Camera,25724,2,UPI,2023-06-02,51448,Senior,2023,6,South
+56,Chetan,39,Female,Kochi,Laptop,40500,2,UPI,2023-11-01,81000,Adult,2023,11,
+57,Gopi,39,Male,Kochi,Camera,24035,2,Card,2023-11-20,48070,Adult,2023,11,
+58,Hari,60,Female,Bangalore,Headphones,45281,2,Cash,2023-02-12,90562,Senior,2023,2,South
+59,Bala,35,Male,Trivandrum,Headphones,43389,1,UPI,2023-01-12,43389,Young Adult,2023,1,
+60,Hari,39,Male,Chennai,Laptop,2300,5,Card,2023-04-23,11500,Adult,2023,4,South
+61,Chetan,39,Female,Kochi,Camera,35654,3,Cash,2023-07-07,106962,Adult,2023,7,
+62,Farhan,41,Male,Hyderabad,Laptop,25637,1,Cash,2023-11-05,25637,Adult,2023,11,
+63,Gopi,39,Female,Kochi,Tablet,17699,2,Cash,2023-03-15,35398,Adult,2023,3,
+64,Hari,33,Female,Bangalore,Laptop,10785,3,UPI,2023-12-05,32355,Young Adult,2023,12,South
+65,Arun,39,Female,Chennai,Camera,41637,2,Cash,2023-02-16,83274,Adult,2023,2,South
+66,Gopi,39,Female,Hyderabad,Camera,49626,5,Card,2023-03-22,248130,Adult,2023,3,
+67,Chetan,39,Female,Chennai,Laptop,13449,5,Card,2023-10-29,67245,Adult,2023,10,South
+68,Esha,39,Female,Hyderabad,Mobile,3029,3,Cash,2023-10-31,9087,Adult,2023,10,
+69,Bala,42,Female,Hyderabad,Laptop,10075,1,Cash,2023-06-12,10075,Adult,2023,6,
+70,Arun,39,Female,Bangalore,Mobile,29230,1,Card,2023-06-10,29230,Adult,2023,6,South
+71,Arun,31,Male,Chennai,Headphones,33369,2,Card,2023-09-30,66738,Young Adult,2023,9,South
+72,Arun,47,Male,Chennai,Tablet,25454,2,Card,2023-06-12,50908,Adult,2023,6,South
+73,Bala,37,Male,Kochi,Camera,18245,2,Card,2023-02-20,36490,Adult,2023,2,
+74,Arun,39,Female,Trivandrum,Headphones,46243,1,Cash,2023-08-30,46243,Adult,2023,8,
+75,Isha,45,Female,Kochi,Laptop,16323,1,Cash,2023-07-07,16323,Adult,2023,7,
+76,Jaya,19,Female,Hyderabad,Headphones,23412,2,Cash,2023-11-08,46824,Young Adult,2023,11,
+77,Jaya,39,Male,Kochi,Mobile,34478,4,UPI,2023-06-02,137912,Adult,2023,6,
+78,Chetan,29,Female,Hyderabad,Tablet,45671,3,Cash,2023-04-02,137013,Young Adult,2023,4,
+79,Arun,60,Male,Hyderabad,Camera,44861,4,Cash,2023-08-19,179444,Senior,2023,8,
+80,Esha,45,Male,Trivandrum,Mobile,16184,1,Card,2023-10-21,16184,Adult,2023,10,
+81,Divya,42,Female,Bangalore,Headphones,48741,2,UPI,2023-12-29,97482,Adult,2023,12,South
+82,Divya,39,Male,Hyderabad,Camera,37706,2,Card,2023-08-05,75412,Adult,2023,8,
+83,Hari,39,Female,Kochi,Laptop,14921,5,UPI,2023-04-01,74605,Adult,2023,4,
+84,Jaya,30,Male,Bangalore,Tablet,14853,5,Cash,2023-07-25,74265,Young Adult,2023,7,South
+85,Chetan,39,Male,Trivandrum,Laptop,10539,5,Cash,2023-10-21,52695,Adult,2023,10,
+86,Farhan,54,Female,Trivandrum,Mobile,9990,3,UPI,2023-04-16,29970,Senior,2023,4,
+87,Jaya,39,Male,Chennai,Laptop,45384,1,Card,2023-05-27,45384,Adult,2023,5,South
+88,Jaya,32,Female,Bangalore,Headphones,39262,5,Cash,2023-11-23,196310,Young Adult,2023,11,South
+89,Jaya,26,Male,Hyderabad,Tablet,19104,2,UPI,2023-09-26,38208,Young Adult,2023,9,
+90,Farhan,55,Male,Trivandrum,Headphones,34986,4,Cash,2023-05-06,139944,Senior,2023,5,
+91,Divya,45,Male,Chennai,Mobile,40863,2,Card,2023-04-15,81726,Adult,2023,4,South
+92,Isha,39,Female,Bangalore,Headphones,3342,2,Cash,2023-11-13,6684,Adult,2023,11,South
+93,Isha,39,Male,Chennai,Headphones,34731,5,Cash,2023-11-24,173655,Adult,2023,11,South
+94,Hari,39,Female,Hyderabad,Laptop,23392,2,Cash,2023-07-07,46784,Adult,2023,7,
+95,Isha,39,Female,Chennai,Camera,3392,5,UPI,2023-04-04,16960,Adult,2023,4,South
+96,Bala,39,Male,Trivandrum,Camera,862,3,UPI,2023-08-11,2586,Adult,2023,8,
+97,Gopi,39,Female,Trivandrum,Laptop,47671,5,UPI,2023-09-06,238355,Adult,2023,9,
+98,Divya,36,Female,Bangalore,Laptop,37859,5,UPI,2023-04-18,189295,Adult,2023,4,South
+99,Hari,45,Female,Chennai,Camera,11133,4,Card,2023-02-24,44532,Adult,2023,2,South
+100,Farhan,39,Male,Hyderabad,Headphones,39008,5,Card,2023-12-22,195040,Adult,2023,12,
+101,Arun,21,Female,Chennai,Mobile,47867,2,UPI,2023-07-26,95734,Young Adult,2023,7,South
+102,Esha,39,Female,Chennai,Camera,21618,5,Cash,2023-02-12,108090,Adult,2023,2,South
+103,Chetan,39,Female,Kochi,Tablet,42929,1,Card,2023-08-17,42929,Adult,2023,8,
+104,Gopi,39,Female,Chennai,Mobile,20544,3,UPI,2023-06-11,61632,Adult,2023,6,South
+105,Isha,39,Female,Chennai,Camera,19150,4,Card,2023-01-24,76600,Adult,2023,1,South
+106,Divya,26,Female,Chennai,Camera,26655,4,UPI,2023-05-30,106620,Young Adult,2023,5,South
+107,Divya,39,Male,Kochi,Laptop,15589,1,UPI,2023-02-02,15589,Adult,2023,2,
+108,Arun,39,Female,Trivandrum,Mobile,3832,5,Cash,2023-06-28,19160,Adult,2023,6,
+109,Chetan,47,Female,Kochi,Tablet,1682,4,UPI,2023-07-12,6728,Adult,2023,7,
+110,Jaya,39,Male,Kochi,Headphones,35579,2,Cash,2023-07-15,71158,Adult,2023,7,
+111,Esha,54,Female,Hyderabad,Camera,8449,3,UPI,2023-12-31,25347,Senior,2023,12,
+112,Chetan,34,Male,Kochi,Tablet,30976,1,UPI,2023-11-06,30976,Young Adult,2023,11,
+113,Isha,39,Male,Trivandrum,Headphones,8669,3,Cash,2023-02-04,26007,Adult,2023,2,
+114,Hari,57,Male,Kochi,Laptop,13822,4,Cash,2023-02-25,55288,Senior,2023,2,
+115,Jaya,39,Male,Kochi,Mobile,31391,3,UPI,2023-12-24,94173,Adult,2023,12,
+116,Chetan,39,Male,Chennai,Tablet,13088,1,Card,2023-09-25,13088,Adult,2023,9,South
+117,Isha,39,Male,Trivandrum,Headphones,44660,1,Cash,2023-06-27,44660,Adult,2023,6,
+118,Jaya,33,Female,Kochi,Laptop,22614,1,UPI,2023-09-15,22614,Young Adult,2023,9,
+119,Chetan,39,Male,Bangalore,Headphones,11958,5,Card,2023-07-10,59790,Adult,2023,7,South
+120,Chetan,33,Male,Chennai,Laptop,1427,4,Card,2023-12-04,5708,Young Adult,2023,12,South
+121,Divya,52,Female,Trivandrum,Headphones,17811,2,Card,2023-09-13,35622,Senior,2023,9,
+122,Isha,39,Female,Hyderabad,Camera,23491,3,Cash,2023-04-20,70473,Adult,2023,4,
+123,Bala,39,Male,Trivandrum,Laptop,11056,5,Card,2023-05-16,55280,Adult,2023,5,
+124,Isha,53,Female,Trivandrum,Camera,42203,3,UPI,2023-04-03,126609,Senior,2023,4,
+125,Esha,59,Female,Bangalore,Laptop,31452,3,Card,2023-12-20,94356,Senior,2023,12,South
+126,Hari,35,Female,Bangalore,Laptop,4459,5,UPI,2023-09-01,22295,Young Adult,2023,9,South
+127,Farhan,39,Female,Bangalore,Laptop,30868,3,Card,2023-09-29,92604,Adult,2023,9,South
+128,Isha,39,Male,Chennai,Camera,45412,4,Card,2023-03-27,181648,Adult,2023,3,South
+129,Chetan,39,Male,Hyderabad,Camera,32162,2,Card,2023-11-23,64324,Adult,2023,11,
+130,Jaya,39,Male,Kochi,Camera,3399,3,Card,2023-04-18,10197,Adult,2023,4,
+131,Bala,39,Female,Hyderabad,Tablet,9243,3,UPI,2023-06-12,27729,Adult,2023,6,
+132,Bala,49,Male,Trivandrum,Camera,20316,4,UPI,2023-12-13,81264,Adult,2023,12,
+133,Chetan,18,Female,Kochi,Mobile,36789,2,Cash,2023-12-17,73578,Teen,2023,12,
+134,Jaya,39,Male,Hyderabad,Tablet,31493,4,Card,2023-12-27,125972,Adult,2023,12,
+135,Jaya,54,Male,Trivandrum,Headphones,33527,4,UPI,2023-10-26,134108,Senior,2023,10,
+136,Jaya,50,Male,Chennai,Tablet,18759,5,Card,2023-09-28,93795,Adult,2023,9,South
+137,Gopi,28,Male,Bangalore,Laptop,45073,4,Card,2023-03-10,180292,Young Adult,2023,3,South
+138,Arun,22,Female,Hyderabad,Laptop,32587,5,Cash,2023-03-09,162935,Young Adult,2023,3,
+139,Jaya,39,Female,Bangalore,Tablet,20735,5,Card,2023-02-02,103675,Adult,2023,2,South
+140,Isha,39,Male,Trivandrum,Mobile,47597,4,Card,2023-03-12,190388,Adult,2023,3,
+141,Arun,47,Male,Chennai,Laptop,11902,1,Card,2023-04-19,11902,Adult,2023,4,South
+142,Esha,25,Female,Hyderabad,Mobile,28369,1,UPI,2023-10-25,28369,Young Adult,2023,10,
+143,Isha,33,Female,Trivandrum,Headphones,25981,1,Cash,2023-11-29,25981,Young Adult,2023,11,
+144,Jaya,25,Female,Kochi,Camera,22040,3,Card,2023-05-08,66120,Young Adult,2023,5,
+145,Gopi,43,Female,Kochi,Tablet,40001,3,UPI,2023-02-17,120003,Adult,2023,2,
+146,Chetan,58,Female,Trivandrum,Laptop,47135,5,Card,2023-08-04,235675,Senior,2023,8,
+147,Bala,20,Male,Chennai,Tablet,22801,2,UPI,2023-08-23,45602,Young Adult,2023,8,South
+148,Chetan,39,Male,Chennai,Mobile,41098,1,Cash,2023-09-07,41098,Adult,2023,9,South
+149,Hari,59,Male,Chennai,Headphones,49453,3,UPI,2023-10-01,148359,Senior,2023,10,South
+150,Gopi,60,Male,Bangalore,Headphones,9720,4,UPI,2023-12-08,38880,Senior,2023,12,South
+151,Gopi,39,Male,Bangalore,Headphones,24098,3,Card,2023-05-21,72294,Adult,2023,5,South
+152,Isha,39,Female,Chennai,Camera,42991,1,UPI,2023-10-24,42991,Adult,2023,10,South
+153,Gopi,19,Male,Bangalore,Mobile,2399,3,Cash,2023-04-16,7197,Young Adult,2023,4,South
+154,Arun,39,Male,Chennai,Tablet,45482,5,Card,2023-06-27,227410,Adult,2023,6,South
+155,Chetan,39,Male,Chennai,Headphones,13614,4,UPI,2023-01-12,54456,Adult,2023,1,South
+156,Chetan,36,Male,Bangalore,Tablet,17408,2,Card,2023-03-03,34816,Adult,2023,3,South
+157,Bala,39,Female,Chennai,Headphones,35914,4,UPI,2023-03-31,143656,Adult,2023,3,South
+158,Hari,39,Female,Bangalore,Tablet,24718,2,Card,2023-04-30,49436,Adult,2023,4,South
+159,Arun,23,Male,Bangalore,Mobile,13860,1,UPI,2023-06-30,13860,Young Adult,2023,6,South
+160,Farhan,56,Male,Hyderabad,Camera,6045,4,Card,2023-03-07,24180,Senior,2023,3,
+161,Bala,39,Female,Trivandrum,Tablet,44989,1,UPI,2023-12-07,44989,Adult,2023,12,
+162,Chetan,24,Male,Bangalore,Tablet,47387,1,Card,2023-02-09,47387,Young Adult,2023,2,South
+163,Arun,44,Female,Trivandrum,Tablet,29026,4,UPI,2023-02-28,116104,Adult,2023,2,
+164,Jaya,41,Male,Bangalore,Headphones,44203,1,Card,2023-02-10,44203,Adult,2023,2,South
+165,Chetan,39,Female,Kochi,Mobile,33184,4,Card,2023-06-24,132736,Adult,2023,6,
+166,Esha,39,Male,Kochi,Mobile,46236,3,Card,2023-07-24,138708,Adult,2023,7,
+167,Isha,27,Male,Bangalore,Laptop,38791,4,Cash,2023-02-25,155164,Young Adult,2023,2,South
+168,Hari,39,Male,Trivandrum,Mobile,37707,4,Card,2023-02-08,150828,Adult,2023,2,
+169,Jaya,24,Female,Bangalore,Laptop,15025,3,Cash,2023-06-18,45075,Young Adult,2023,6,South
+170,Arun,36,Male,Trivandrum,Camera,11897,4,Card,2023-01-09,47588,Adult,2023,1,
+171,Isha,54,Male,Chennai,Laptop,26981,1,Card,2023-11-06,26981,Senior,2023,11,South
+172,Gopi,19,Female,Hyderabad,Mobile,34551,4,UPI,2023-02-15,138204,Young Adult,2023,2,
+173,Bala,39,Female,Trivandrum,Laptop,39730,5,Cash,2023-01-15,198650,Adult,2023,1,
+174,Arun,39,Female,Chennai,Mobile,21671,4,Cash,2023-02-16,86684,Adult,2023,2,South
+175,Chetan,49,Male,Kochi,Camera,47599,5,UPI,2023-05-30,237995,Adult,2023,5,
+176,Arun,39,Male,Kochi,Tablet,19076,5,Card,2023-12-22,95380,Adult,2023,12,
+177,Esha,26,Female,Trivandrum,Camera,6618,1,Card,2023-05-09,6618,Young Adult,2023,5,
+178,Bala,31,Female,Hyderabad,Headphones,42903,1,Cash,2023-03-25,42903,Young Adult,2023,3,
+179,Jaya,39,Female,Trivandrum,Headphones,26242,2,Card,2023-05-29,52484,Adult,2023,5,
+180,Gopi,39,Male,Kochi,Laptop,49073,3,UPI,2023-03-03,147219,Adult,2023,3,
+181,Jaya,39,Female,Kochi,Headphones,17947,4,Card,2023-12-10,71788,Adult,2023,12,
+182,Bala,39,Male,Hyderabad,Mobile,21412,1,Card,2023-03-04,21412,Adult,2023,3,
+183,Farhan,23,Male,Trivandrum,Tablet,20395,1,UPI,2023-09-30,20395,Young Adult,2023,9,
+184,Isha,39,Female,Bangalore,Camera,42875,3,UPI,2023-04-28,128625,Adult,2023,4,South
+185,Hari,55,Female,Bangalore,Tablet,13590,1,UPI,2023-02-27,13590,Senior,2023,2,South
+186,Esha,30,Female,Hyderabad,Tablet,43561,3,Cash,2023-06-26,130683,Young Adult,2023,6,
+187,Chetan,39,Male,Trivandrum,Tablet,8065,1,Cash,2023-01-02,8065,Adult,2023,1,
+188,Arun,39,Female,Kochi,Laptop,37857,1,Cash,2023-04-24,37857,Adult,2023,4,
+189,Esha,39,Male,Chennai,Laptop,34553,4,Card,2023-03-06,138212,Adult,2023,3,South
+190,Bala,29,Male,Hyderabad,Headphones,42192,5,UPI,2023-02-11,210960,Young Adult,2023,2,
+191,Divya,39,Female,Trivandrum,Laptop,7515,4,UPI,2023-09-03,30060,Adult,2023,9,
+192,Jaya,34,Female,Bangalore,Mobile,37231,4,UPI,2023-09-21,148924,Young Adult,2023,9,South
+193,Hari,22,Female,Bangalore,Camera,8900,3,Cash,2023-04-25,26700,Young Adult,2023,4,South
+194,Gopi,44,Male,Kochi,Laptop,34885,2,Cash,2023-03-19,69770,Adult,2023,3,
+195,Divya,57,Male,Bangalore,Camera,7249,5,Card,2023-01-26,36245,Senior,2023,1,South
+196,Bala,30,Male,Hyderabad,Laptop,37831,2,Cash,2023-01-13,75662,Young Adult,2023,1,
+197,Isha,35,Female,Bangalore,Laptop,24133,5,Cash,2023-01-20,120665,Young Adult,2023,1,South
+198,Hari,39,Male,Kochi,Mobile,40652,4,Card,2023-11-01,162608,Adult,2023,11,
+199,Divya,39,Male,Trivandrum,Mobile,770,3,Card,2023-02-27,2310,Adult,2023,2,
+200,Divya,24,Male,Trivandrum,Camera,11314,4,UPI,2023-01-28,45256,Young Adult,2023,1,
+201,Bala,57,Female,Kochi,Tablet,34200,3,Card,2023-03-18,102600,Senior,2023,3,
+202,Divya,39,Female,Trivandrum,Tablet,5477,3,UPI,2023-01-27,16431,Adult,2023,1,
+203,Arun,22,Male,Bangalore,Laptop,12375,1,Card,2023-03-04,12375,Young Adult,2023,3,South
+204,Farhan,39,Male,Kochi,Mobile,8099,1,UPI,2023-08-21,8099,Adult,2023,8,
+205,Arun,39,Male,Hyderabad,Headphones,6320,4,UPI,2023-10-17,25280,Adult,2023,10,
+206,Isha,39,Female,Chennai,Tablet,6507,5,UPI,2023-04-22,32535,Adult,2023,4,South
+207,Esha,39,Male,Bangalore,Camera,18639,5,UPI,2023-04-21,93195,Adult,2023,4,South
+208,Farhan,28,Male,Hyderabad,Laptop,34073,1,Cash,2023-11-19,34073,Young Adult,2023,11,
+209,Isha,39,Male,Trivandrum,Tablet,39840,4,Cash,2023-09-27,159360,Adult,2023,9,
+210,Isha,42,Male,Trivandrum,Camera,39325,4,Cash,2023-05-18,157300,Adult,2023,5,
+211,Hari,56,Female,Trivandrum,Headphones,49590,3,Cash,2023-09-09,148770,Senior,2023,9,
+212,Hari,57,Female,Bangalore,Camera,20169,2,Card,2023-06-06,40338,Senior,2023,6,South
+213,Jaya,39,Female,Bangalore,Camera,32227,2,Cash,2023-02-26,64454,Adult,2023,2,South
+214,Farhan,56,Female,Bangalore,Tablet,49464,2,Cash,2023-08-26,98928,Senior,2023,8,South
+215,Esha,48,Female,Kochi,Headphones,5373,1,UPI,2023-09-22,5373,Adult,2023,9,
+216,Gopi,35,Female,Trivandrum,Laptop,11346,5,UPI,2023-03-27,56730,Young Adult,2023,3,
+217,Farhan,42,Male,Bangalore,Laptop,34865,4,Card,2023-09-06,139460,Adult,2023,9,South
+218,Divya,39,Male,Hyderabad,Camera,22243,4,Cash,2023-05-25,88972,Adult,2023,5,
+219,Chetan,37,Male,Kochi,Laptop,23065,5,Cash,2023-02-15,115325,Adult,2023,2,
+220,Arun,56,Female,Chennai,Laptop,4724,1,Cash,2023-04-16,4724,Senior,2023,4,South
+221,Isha,22,Male,Kochi,Mobile,1645,5,UPI,2023-08-08,8225,Young Adult,2023,8,
+222,Isha,37,Female,Chennai,Camera,26694,3,Cash,2023-01-11,80082,Adult,2023,1,South
+223,Farhan,39,Female,Chennai,Camera,27545,4,Cash,2023-10-22,110180,Adult,2023,10,South
+224,Esha,27,Female,Kochi,Headphones,28798,1,Cash,2023-11-15,28798,Young Adult,2023,11,
+225,Chetan,39,Female,Trivandrum,Mobile,37475,2,UPI,2023-09-17,74950,Adult,2023,9,
+226,Divya,39,Male,Kochi,Laptop,49070,2,UPI,2023-01-31,98140,Adult,2023,1,
+227,Hari,39,Male,Kochi,Headphones,4636,4,Cash,2023-11-12,18544,Adult,2023,11,
+228,Chetan,54,Female,Chennai,Camera,24650,3,Cash,2023-03-21,73950,Senior,2023,3,South
+229,Esha,39,Female,Hyderabad,Laptop,6220,3,Card,2023-11-10,18660,Adult,2023,11,
+230,Gopi,54,Female,Kochi,Headphones,6301,5,Cash,2023-09-18,31505,Senior,2023,9,
+231,Chetan,59,Female,Hyderabad,Camera,15043,3,Card,2023-10-07,45129,Senior,2023,10,
+232,Gopi,39,Male,Kochi,Laptop,34146,1,Card,2023-07-01,34146,Adult,2023,7,
+233,Farhan,39,Female,Hyderabad,Mobile,24790,4,UPI,2023-12-30,99160,Adult,2023,12,
+234,Isha,55,Male,Hyderabad,Headphones,2950,3,Card,2023-09-23,8850,Senior,2023,9,
+235,Chetan,46,Female,Hyderabad,Tablet,12827,4,UPI,2023-07-13,51308,Adult,2023,7,
+236,Esha,34,Male,Trivandrum,Tablet,19564,4,Card,2023-02-25,78256,Young Adult,2023,2,
+237,Farhan,39,Male,Bangalore,Mobile,2657,3,Card,2023-05-04,7971,Adult,2023,5,South
+238,Farhan,21,Female,Hyderabad,Headphones,6628,5,Cash,2023-08-02,33140,Young Adult,2023,8,
+239,Bala,37,Male,Kochi,Tablet,29075,3,UPI,2023-08-12,87225,Adult,2023,8,
+240,Hari,39,Female,Chennai,Mobile,8554,1,Card,2023-01-24,8554,Adult,2023,1,South
+241,Gopi,39,Male,Hyderabad,Tablet,38347,1,UPI,2023-04-16,38347,Adult,2023,4,
+242,Hari,39,Male,Chennai,Laptop,2915,1,Card,2023-09-13,2915,Adult,2023,9,South
+243,Esha,39,Male,Trivandrum,Camera,37896,3,UPI,2023-10-18,113688,Adult,2023,10,
+244,Hari,39,Female,Kochi,Headphones,39051,3,Cash,2023-05-26,117153,Adult,2023,5,
+245,Gopi,25,Male,Trivandrum,Camera,48024,3,Cash,2023-09-15,144072,Young Adult,2023,9,
+246,Isha,41,Male,Bangalore,Camera,19040,4,Card,2023-05-11,76160,Adult,2023,5,South
+247,Gopi,32,Male,Hyderabad,Headphones,28825,5,UPI,2023-11-07,144125,Young Adult,2023,11,
+248,Divya,39,Female,Bangalore,Headphones,20452,5,Card,2023-03-18,102260,Adult,2023,3,South
+249,Arun,39,Male,Hyderabad,Camera,30591,1,UPI,2023-08-26,30591,Adult,2023,8,
+250,Chetan,39,Female,Bangalore,Tablet,22392,2,Cash,2023-09-29,44784,Adult,2023,9,South
+251,Jaya,53,Female,Chennai,Camera,34287,4,Cash,2023-12-17,137148,Senior,2023,12,South
+252,Bala,39,Male,Chennai,Headphones,36353,1,UPI,2023-02-18,36353,Adult,2023,2,South
+253,Bala,39,Male,Bangalore,Tablet,35799,1,UPI,2023-11-30,35799,Adult,2023,11,South
+254,Jaya,39,Male,Hyderabad,Camera,38347,1,Cash,2023-08-25,38347,Adult,2023,8,
+255,Chetan,39,Female,Bangalore,Laptop,45387,3,Card,2023-03-19,136161,Adult,2023,3,South
+256,Isha,54,Male,Kochi,Tablet,22734,1,UPI,2023-03-17,22734,Senior,2023,3,
+257,Arun,39,Male,Chennai,Laptop,32588,1,UPI,2023-06-25,32588,Adult,2023,6,South
+258,Farhan,18,Female,Chennai,Laptop,3161,1,Card,2023-05-24,3161,Teen,2023,5,South
+259,Chetan,39,Female,Hyderabad,Camera,15037,5,Cash,2023-06-20,75185,Adult,2023,6,
+260,Farhan,39,Male,Trivandrum,Headphones,26730,4,Cash,2023-07-13,106920,Adult,2023,7,
+261,Isha,39,Female,Bangalore,Mobile,8516,5,UPI,2023-05-14,42580,Adult,2023,5,South
+262,Divya,39,Female,Bangalore,Camera,19028,5,Card,2023-09-12,95140,Adult,2023,9,South
+263,Arun,39,Female,Hyderabad,Headphones,34345,2,Cash,2023-06-30,68690,Adult,2023,6,
+264,Jaya,24,Female,Hyderabad,Tablet,20416,1,Cash,2023-05-06,20416,Young Adult,2023,5,
+265,Arun,39,Male,Chennai,Tablet,13780,1,UPI,2023-10-26,13780,Adult,2023,10,South
+266,Divya,28,Male,Chennai,Mobile,32862,4,UPI,2023-06-08,131448,Young Adult,2023,6,South
+267,Chetan,38,Female,Hyderabad,Laptop,29079,2,Card,2023-07-08,58158,Adult,2023,7,
+268,Farhan,39,Male,Kochi,Headphones,27995,2,Cash,2023-05-23,55990,Adult,2023,5,
+269,Chetan,28,Female,Kochi,Camera,33803,4,Card,2023-10-13,135212,Young Adult,2023,10,
+270,Farhan,39,Male,Hyderabad,Headphones,30723,4,Cash,2023-12-07,122892,Adult,2023,12,
+271,Arun,39,Female,Bangalore,Mobile,5278,1,Cash,2023-03-30,5278,Adult,2023,3,South
+272,Hari,53,Female,Trivandrum,Camera,23311,2,Cash,2023-11-05,46622,Senior,2023,11,
+273,Jaya,31,Female,Kochi,Headphones,49419,4,Card,2023-01-15,197676,Young Adult,2023,1,
+274,Bala,39,Female,Chennai,Headphones,46780,4,Card,2023-04-03,187120,Adult,2023,4,South
+275,Arun,39,Male,Chennai,Tablet,13020,3,Card,2023-12-03,39060,Adult,2023,12,South
+276,Jaya,29,Female,Kochi,Camera,28587,2,Card,2023-09-22,57174,Young Adult,2023,9,
+277,Chetan,31,Male,Hyderabad,Laptop,26537,4,Card,2023-09-29,106148,Young Adult,2023,9,
+278,Arun,45,Female,Hyderabad,Headphones,10500,3,UPI,2023-07-14,31500,Adult,2023,7,
+279,Bala,23,Female,Trivandrum,Tablet,29018,4,Card,2023-11-26,116072,Young Adult,2023,11,
+280,Bala,39,Female,Bangalore,Tablet,11667,5,Cash,2023-03-13,58335,Adult,2023,3,South
+281,Hari,39,Male,Kochi,Tablet,10778,2,Cash,2023-05-20,21556,Adult,2023,5,
+282,Jaya,39,Male,Chennai,Headphones,11190,4,Cash,2023-11-17,44760,Adult,2023,11,South
+283,Arun,39,Female,Bangalore,Camera,35914,3,Cash,2023-04-20,107742,Adult,2023,4,South
+284,Hari,39,Female,Kochi,Camera,27652,3,Card,2023-08-19,82956,Adult,2023,8,
+285,Jaya,39,Female,Kochi,Tablet,38479,4,Cash,2023-10-31,153916,Adult,2023,10,
+286,Isha,39,Male,Trivandrum,Camera,33277,4,Card,2023-05-26,133108,Adult,2023,5,
+287,Chetan,39,Male,Trivandrum,Camera,37202,5,Card,2023-07-02,186010,Adult,2023,7,
+288,Chetan,39,Female,Hyderabad,Laptop,32099,1,Card,2023-02-26,32099,Adult,2023,2,
+289,Divya,55,Female,Bangalore,Headphones,20585,1,UPI,2023-08-31,20585,Senior,2023,8,South
+290,Chetan,39,Female,Hyderabad,Camera,12937,3,Cash,2023-07-02,38811,Adult,2023,7,
+291,Arun,51,Male,Chennai,Headphones,39794,5,UPI,2023-09-23,198970,Senior,2023,9,South
+292,Hari,47,Female,Chennai,Tablet,36757,1,Cash,2023-02-26,36757,Adult,2023,2,South
+293,Esha,44,Male,Trivandrum,Mobile,48458,4,Cash,2023-04-30,193832,Adult,2023,4,
+294,Farhan,39,Female,Kochi,Headphones,40950,2,Cash,2023-07-21,81900,Adult,2023,7,
+295,Gopi,39,Male,Trivandrum,Laptop,15681,2,UPI,2023-12-27,31362,Adult,2023,12,
+296,Divya,39,Female,Bangalore,Laptop,29885,1,Card,2023-06-08,29885,Adult,2023,6,South
+297,Farhan,39,Female,Chennai,Tablet,2243,2,UPI,2023-09-22,4486,Adult,2023,9,South
+298,Bala,39,Female,Hyderabad,Headphones,16440,1,Cash,2023-03-18,16440,Adult,2023,3,
+299,Hari,56,Male,Trivandrum,Tablet,2736,3,UPI,2023-11-03,8208,Senior,2023,11,
+300,Gopi,39,Male,Chennai,Mobile,14710,3,Card,2023-10-18,44130,Adult,2023,10,South
+301,Arun,41,Female,Bangalore,Laptop,21456,3,UPI,2023-11-24,64368,Adult,2023,11,South
+302,Arun,39,Male,Chennai,Headphones,41465,4,Cash,2023-11-26,165860,Adult,2023,11,South
+303,Divya,39,Male,Hyderabad,Camera,7105,3,Card,2023-08-12,21315,Adult,2023,8,
+304,Arun,39,Male,Trivandrum,Tablet,17112,1,UPI,2023-03-04,17112,Adult,2023,3,
+305,Chetan,39,Female,Trivandrum,Mobile,33085,1,UPI,2023-09-25,33085,Adult,2023,9,
+306,Jaya,39,Female,Hyderabad,Laptop,34906,2,Card,2023-10-13,69812,Adult,2023,10,
+307,Jaya,27,Female,Chennai,Laptop,29064,1,Card,2023-03-25,29064,Young Adult,2023,3,South
+308,Divya,27,Male,Kochi,Laptop,16900,5,Card,2023-10-28,84500,Young Adult,2023,10,
+309,Gopi,30,Male,Kochi,Laptop,47270,2,Card,2023-04-09,94540,Young Adult,2023,4,
+310,Farhan,39,Male,Kochi,Laptop,40462,5,Card,2023-06-24,202310,Adult,2023,6,
+311,Isha,39,Female,Chennai,Mobile,3108,1,UPI,2023-08-23,3108,Adult,2023,8,South
+312,Bala,18,Male,Chennai,Laptop,1350,1,Card,2023-09-27,1350,Teen,2023,9,South
+313,Gopi,53,Female,Kochi,Tablet,22698,1,Card,2024-01-01,22698,Senior,2024,1,
+314,Farhan,23,Female,Chennai,Mobile,24072,5,UPI,2023-10-20,120360,Young Adult,2023,10,South
+315,Esha,39,Male,Kochi,Camera,43087,5,Card,2023-10-31,215435,Adult,2023,10,
+316,Divya,39,Female,Hyderabad,Mobile,40641,5,Cash,2023-05-10,203205,Adult,2023,5,
+317,Farhan,39,Male,Bangalore,Laptop,9608,5,Card,2023-09-17,48040,Adult,2023,9,South
+318,Esha,50,Male,Bangalore,Camera,21493,1,UPI,2023-11-17,21493,Adult,2023,11,South
+319,Hari,39,Female,Kochi,Camera,33350,4,UPI,2023-03-14,133400,Adult,2023,3,
+320,Esha,39,Male,Chennai,Tablet,41090,5,UPI,2023-12-25,205450,Adult,2023,12,South
+321,Arun,39,Male,Bangalore,Mobile,5335,2,Card,2023-09-20,10670,Adult,2023,9,South
+322,Esha,58,Female,Kochi,Laptop,6956,2,Cash,2023-06-12,13912,Senior,2023,6,
+323,Divya,39,Male,Bangalore,Laptop,14086,4,UPI,2023-09-03,56344,Adult,2023,9,South
+324,Farhan,39,Female,Hyderabad,Tablet,25887,5,Card,2023-02-14,129435,Adult,2023,2,
+325,Gopi,39,Female,Kochi,Tablet,7676,2,Card,2023-10-03,15352,Adult,2023,10,
+326,Esha,39,Male,Bangalore,Camera,29946,4,Card,2023-03-18,119784,Adult,2023,3,South
+327,Hari,57,Female,Bangalore,Laptop,40001,2,Cash,2023-03-10,80002,Senior,2023,3,South
+328,Farhan,39,Male,Bangalore,Camera,7619,1,Card,2023-07-26,7619,Adult,2023,7,South
+329,Gopi,39,Female,Hyderabad,Camera,46816,3,Cash,2023-11-06,140448,Adult,2023,11,
+330,Chetan,39,Female,Bangalore,Laptop,29836,2,Card,2023-09-19,59672,Adult,2023,9,South
+331,Hari,30,Male,Chennai,Headphones,9979,5,UPI,2023-03-08,49895,Young Adult,2023,3,South
+332,Hari,39,Female,Hyderabad,Tablet,19184,3,Cash,2023-10-02,57552,Adult,2023,10,
+333,Hari,42,Female,Bangalore,Camera,893,5,Cash,2023-01-03,4465,Adult,2023,1,South
+334,Farhan,39,Male,Kochi,Mobile,23660,3,Cash,2023-11-20,70980,Adult,2023,11,
+335,Bala,18,Female,Hyderabad,Laptop,13279,1,Card,2023-04-04,13279,Teen,2023,4,
+336,Hari,34,Female,Hyderabad,Laptop,38990,5,Card,2023-02-03,194950,Young Adult,2023,2,
+337,Arun,58,Female,Chennai,Tablet,41765,2,Card,2023-08-26,83530,Senior,2023,8,South
+338,Hari,39,Female,Bangalore,Mobile,35038,2,Cash,2023-03-21,70076,Adult,2023,3,South
+339,Chetan,44,Male,Hyderabad,Headphones,36299,4,Cash,2023-09-14,145196,Adult,2023,9,
+340,Hari,51,Male,Kochi,Laptop,5005,1,Card,2023-10-24,5005,Senior,2023,10,
+341,Chetan,39,Male,Trivandrum,Camera,15890,5,Card,2023-05-23,79450,Adult,2023,5,
+342,Divya,60,Male,Chennai,Tablet,1114,4,Card,2023-06-10,4456,Senior,2023,6,South
+343,Hari,39,Female,Trivandrum,Camera,23661,5,Card,2023-11-27,118305,Adult,2023,11,
+344,Jaya,39,Female,Bangalore,Mobile,8560,1,UPI,2023-12-30,8560,Adult,2023,12,South
+345,Hari,39,Female,Hyderabad,Tablet,14607,4,Card,2023-06-06,58428,Adult,2023,6,
+346,Isha,58,Male,Trivandrum,Tablet,6504,4,Cash,2023-01-23,26016,Senior,2023,1,
+347,Hari,39,Female,Bangalore,Tablet,9141,1,UPI,2023-02-16,9141,Adult,2023,2,South
+348,Farhan,32,Female,Bangalore,Mobile,27908,5,UPI,2023-10-07,139540,Young Adult,2023,10,South
+349,Jaya,54,Male,Hyderabad,Mobile,1970,4,UPI,2023-08-12,7880,Senior,2023,8,
+350,Bala,39,Male,Bangalore,Camera,49681,5,Cash,2023-01-08,248405,Adult,2023,1,South
+351,Farhan,45,Male,Chennai,Tablet,39065,4,Card,2023-12-03,156260,Adult,2023,12,South
+352,Jaya,57,Female,Bangalore,Tablet,45588,5,Card,2023-02-03,227940,Senior,2023,2,South
+353,Jaya,24,Male,Hyderabad,Headphones,46543,4,UPI,2023-01-01,186172,Young Adult,2023,1,
+354,Hari,39,Male,Bangalore,Mobile,41018,5,Card,2023-07-08,205090,Adult,2023,7,South
+355,Arun,39,Female,Bangalore,Mobile,8178,1,UPI,2023-01-21,8178,Adult,2023,1,South
+356,Divya,60,Female,Kochi,Laptop,8363,5,Card,2023-02-26,41815,Senior,2023,2,
+357,Chetan,39,Male,Kochi,Camera,4121,1,UPI,2023-02-01,4121,Adult,2023,2,
+358,Gopi,39,Female,Chennai,Camera,15811,5,Cash,2023-07-17,79055,Adult,2023,7,South
+359,Jaya,39,Female,Chennai,Mobile,17195,4,UPI,2023-03-20,68780,Adult,2023,3,South
+360,Hari,39,Male,Chennai,Camera,7386,4,UPI,2023-04-30,29544,Adult,2023,4,South
+361,Farhan,44,Male,Chennai,Mobile,42499,3,UPI,2023-01-15,127497,Adult,2023,1,South
+362,Isha,56,Female,Bangalore,Camera,29038,2,UPI,2023-08-27,58076,Senior,2023,8,South
+363,Isha,39,Male,Hyderabad,Headphones,47873,4,Card,2023-07-30,191492,Adult,2023,7,
+364,Arun,44,Female,Hyderabad,Tablet,1265,5,Cash,2023-06-04,6325,Adult,2023,6,
+365,Chetan,39,Female,Chennai,Headphones,41479,1,UPI,2023-02-23,41479,Adult,2023,2,South
+366,Bala,38,Male,Trivandrum,Headphones,18269,2,Card,2023-01-19,36538,Adult,2023,1,
+367,Farhan,51,Female,Kochi,Mobile,47973,5,Cash,2023-08-29,239865,Senior,2023,8,
+368,Arun,31,Female,Bangalore,Tablet,5314,4,Cash,2023-09-27,21256,Young Adult,2023,9,South
+369,Gopi,46,Male,Kochi,Camera,36704,2,UPI,2023-02-10,73408,Adult,2023,2,
+370,Hari,39,Female,Bangalore,Laptop,32419,4,UPI,2023-09-06,129676,Adult,2023,9,South
+371,Isha,39,Male,Chennai,Headphones,41057,1,UPI,2023-07-02,41057,Adult,2023,7,South
+372,Arun,36,Male,Kochi,Tablet,27495,5,Cash,2023-12-02,137475,Adult,2023,12,
+373,Farhan,38,Female,Hyderabad,Tablet,8474,1,Card,2023-12-02,8474,Adult,2023,12,
+374,Divya,58,Female,Chennai,Mobile,46857,1,Card,2023-04-17,46857,Senior,2023,4,South
+375,Bala,39,Female,Kochi,Tablet,38070,4,Card,2023-02-28,152280,Adult,2023,2,
+376,Farhan,39,Female,Chennai,Headphones,26077,4,Card,2023-08-20,104308,Adult,2023,8,South
+377,Esha,39,Female,Trivandrum,Laptop,38607,2,Cash,2023-08-10,77214,Adult,2023,8,
+378,Farhan,39,Female,Hyderabad,Camera,3206,2,Cash,2023-05-10,6412,Adult,2023,5,
+379,Divya,20,Female,Chennai,Camera,48111,2,UPI,2023-05-01,96222,Young Adult,2023,5,South
+380,Chetan,39,Female,Hyderabad,Headphones,34546,4,Card,2023-04-14,138184,Adult,2023,4,
+381,Isha,39,Male,Chennai,Laptop,35190,5,Card,2023-06-04,175950,Adult,2023,6,South
+382,Divya,39,Male,Hyderabad,Mobile,14282,4,UPI,2023-02-21,57128,Adult,2023,2,
+383,Bala,39,Female,Kochi,Mobile,45357,1,Card,2023-08-26,45357,Adult,2023,8,
+384,Arun,20,Male,Bangalore,Mobile,48035,4,Cash,2023-01-11,192140,Young Adult,2023,1,South
+385,Isha,30,Female,Trivandrum,Laptop,25944,4,Cash,2023-03-28,103776,Young Adult,2023,3,
+386,Hari,39,Female,Bangalore,Headphones,17705,4,Card,2023-06-01,70820,Adult,2023,6,South
+387,Arun,39,Male,Kochi,Headphones,24038,5,Card,2023-03-07,120190,Adult,2023,3,
+388,Divya,45,Female,Trivandrum,Tablet,32495,3,UPI,2023-01-02,97485,Adult,2023,1,
+389,Jaya,39,Male,Trivandrum,Camera,3627,5,Cash,2023-03-21,18135,Adult,2023,3,
+390,Bala,51,Male,Chennai,Tablet,33268,3,Card,2023-11-16,99804,Senior,2023,11,South
+391,Arun,39,Male,Trivandrum,Headphones,31684,1,UPI,2023-09-08,31684,Adult,2023,9,
+392,Isha,39,Male,Trivandrum,Laptop,38687,4,Card,2023-03-16,154748,Adult,2023,3,
+393,Esha,39,Male,Chennai,Headphones,4632,4,Cash,2023-12-15,18528,Adult,2023,12,South
+394,Hari,39,Female,Bangalore,Headphones,25538,1,UPI,2023-03-18,25538,Adult,2023,3,South
+395,Arun,39,Female,Chennai,Laptop,41210,2,Card,2023-03-02,82420,Adult,2023,3,South
+396,Isha,42,Female,Bangalore,Laptop,16961,3,UPI,2023-05-24,50883,Adult,2023,5,South
+397,Hari,23,Male,Bangalore,Camera,41842,3,UPI,2023-05-31,125526,Young Adult,2023,5,South
+398,Farhan,45,Male,Hyderabad,Camera,16178,5,UPI,2023-02-23,80890,Adult,2023,2,
+399,Arun,50,Female,Trivandrum,Camera,14267,1,Cash,2023-05-31,14267,Adult,2023,5,
+400,Farhan,21,Female,Trivandrum,Camera,18837,2,Cash,2023-11-01,37674,Young Adult,2023,11,
+401,Farhan,39,Female,Hyderabad,Mobile,46761,4,Cash,2023-12-27,187044,Adult,2023,12,
+402,Hari,39,Female,Trivandrum,Laptop,2538,3,Cash,2023-10-07,7614,Adult,2023,10,
+403,Gopi,39,Female,Trivandrum,Tablet,43066,3,UPI,2023-07-17,129198,Adult,2023,7,
+404,Bala,39,Female,Bangalore,Laptop,27380,3,Card,2023-04-01,82140,Adult,2023,4,South
+405,Chetan,40,Female,Hyderabad,Laptop,28056,3,UPI,2023-11-26,84168,Adult,2023,11,
+406,Isha,31,Female,Kochi,Tablet,32056,5,Card,2023-12-24,160280,Young Adult,2023,12,
+407,Bala,39,Male,Kochi,Camera,19047,5,Cash,2023-09-19,95235,Adult,2023,9,
+408,Chetan,19,Male,Chennai,Headphones,6231,3,Cash,2023-11-09,18693,Young Adult,2023,11,South
+409,Arun,29,Male,Trivandrum,Headphones,7738,1,Card,2023-01-11,7738,Young Adult,2023,1,
+410,Esha,27,Male,Hyderabad,Camera,601,3,UPI,2023-12-18,1803,Young Adult,2023,12,
+411,Chetan,50,Female,Trivandrum,Tablet,7738,4,Card,2023-06-28,30952,Adult,2023,6,
+412,Farhan,39,Male,Trivandrum,Tablet,18783,3,Cash,2023-09-23,56349,Adult,2023,9,
+413,Bala,39,Female,Trivandrum,Camera,33500,1,Card,2023-09-06,33500,Adult,2023,9,
+414,Jaya,39,Female,Kochi,Camera,31040,1,Card,2023-01-25,31040,Adult,2023,1,
+415,Chetan,39,Female,Trivandrum,Laptop,45372,3,Card,2023-06-08,136116,Adult,2023,6,
+416,Gopi,39,Male,Kochi,Headphones,40852,2,Cash,2023-07-06,81704,Adult,2023,7,
+417,Jaya,49,Male,Chennai,Headphones,6145,2,UPI,2023-01-19,12290,Adult,2023,1,South
+418,Chetan,39,Male,Hyderabad,Headphones,3960,5,UPI,2023-10-05,19800,Adult,2023,10,
+419,Gopi,53,Male,Chennai,Laptop,39602,5,Card,2023-04-16,198010,Senior,2023,4,South
+420,Bala,55,Male,Kochi,Laptop,44282,3,Card,2023-08-31,132846,Senior,2023,8,
+421,Hari,39,Female,Chennai,Headphones,30758,1,Cash,2023-01-04,30758,Adult,2023,1,South
+422,Divya,39,Female,Kochi,Tablet,46912,3,Cash,2023-06-13,140736,Adult,2023,6,
+423,Hari,39,Female,Hyderabad,Tablet,40459,2,Card,2023-01-29,80918,Adult,2023,1,
+424,Bala,18,Male,Kochi,Mobile,5086,5,Card,2023-02-01,25430,Teen,2023,2,
+425,Isha,35,Female,Trivandrum,Tablet,13471,5,Card,2023-09-16,67355,Young Adult,2023,9,
+426,Gopi,47,Male,Hyderabad,Laptop,34112,1,UPI,2023-12-25,34112,Adult,2023,12,
+427,Chetan,19,Male,Bangalore,Laptop,917,2,UPI,2023-12-23,1834,Young Adult,2023,12,South
+428,Jaya,58,Female,Chennai,Mobile,24348,1,UPI,2023-08-07,24348,Senior,2023,8,South
+429,Divya,30,Female,Chennai,Mobile,27757,4,UPI,2023-10-18,111028,Young Adult,2023,10,South
+430,Gopi,27,Female,Chennai,Headphones,48035,1,UPI,2023-12-03,48035,Young Adult,2023,12,South
+431,Bala,39,Male,Trivandrum,Camera,19773,3,Cash,2023-04-28,59319,Adult,2023,4,
+432,Farhan,39,Male,Bangalore,Mobile,19683,5,Card,2023-11-12,98415,Adult,2023,11,South
+433,Isha,27,Female,Trivandrum,Camera,32547,5,UPI,2023-09-21,162735,Young Adult,2023,9,
+434,Divya,58,Female,Chennai,Tablet,26537,5,Cash,2023-08-11,132685,Senior,2023,8,South
+435,Hari,49,Female,Kochi,Laptop,2965,5,UPI,2023-05-21,14825,Adult,2023,5,
+436,Isha,30,Female,Hyderabad,Headphones,41900,3,Card,2023-12-29,125700,Young Adult,2023,12,
+437,Bala,39,Female,Chennai,Camera,41586,2,UPI,2023-05-14,83172,Adult,2023,5,South
+438,Jaya,39,Female,Bangalore,Headphones,24451,4,Card,2023-10-13,97804,Adult,2023,10,South
+439,Bala,25,Male,Kochi,Camera,41783,2,Cash,2023-01-24,83566,Young Adult,2023,1,
+440,Jaya,39,Female,Kochi,Headphones,33696,2,Cash,2023-05-29,67392,Adult,2023,5,
+441,Esha,39,Male,Hyderabad,Tablet,44748,3,Card,2023-04-03,134244,Adult,2023,4,
+442,Farhan,39,Female,Hyderabad,Mobile,39549,5,Cash,2023-07-30,197745,Adult,2023,7,
+443,Jaya,39,Male,Kochi,Mobile,39081,3,UPI,2023-12-26,117243,Adult,2023,12,
+444,Isha,39,Male,Chennai,Headphones,37417,5,UPI,2023-06-01,187085,Adult,2023,6,South
+445,Arun,44,Male,Hyderabad,Camera,778,1,Cash,2023-06-12,778,Adult,2023,6,
+446,Hari,39,Female,Chennai,Headphones,40091,5,Cash,2023-09-08,200455,Adult,2023,9,South
+447,Chetan,30,Female,Trivandrum,Laptop,16816,1,Card,2023-08-19,16816,Young Adult,2023,8,
+448,Divya,42,Female,Bangalore,Laptop,17162,5,UPI,2023-10-03,85810,Adult,2023,10,South
+449,Esha,26,Female,Trivandrum,Mobile,4361,4,Card,2023-08-16,17444,Young Adult,2023,8,
+450,Arun,52,Male,Kochi,Camera,45980,5,Cash,2023-01-22,229900,Senior,2023,1,
+451,Divya,39,Male,Hyderabad,Headphones,25065,2,Card,2023-08-01,50130,Adult,2023,8,
+452,Gopi,39,Male,Hyderabad,Camera,40351,5,Cash,2023-01-10,201755,Adult,2023,1,
+453,Chetan,39,Male,Chennai,Laptop,17100,5,Cash,2023-07-10,85500,Adult,2023,7,South
+454,Chetan,39,Male,Kochi,Tablet,1414,2,Cash,2023-07-22,2828,Adult,2023,7,
+455,Arun,31,Male,Hyderabad,Mobile,36582,2,Card,2023-08-17,73164,Young Adult,2023,8,
+456,Divya,39,Male,Chennai,Laptop,33416,1,Card,2023-09-20,33416,Adult,2023,9,South
+457,Hari,36,Male,Chennai,Tablet,3175,3,Card,2023-07-28,9525,Adult,2023,7,South
+458,Gopi,29,Male,Trivandrum,Laptop,8112,3,Cash,2023-10-26,24336,Young Adult,2023,10,
+459,Farhan,39,Female,Trivandrum,Tablet,15306,1,UPI,2023-01-06,15306,Adult,2023,1,
+460,Chetan,39,Female,Bangalore,Mobile,14308,5,Cash,2023-06-02,71540,Adult,2023,6,South
+461,Isha,39,Female,Chennai,Tablet,45611,1,Card,2023-06-08,45611,Adult,2023,6,South
+462,Arun,30,Female,Trivandrum,Laptop,33848,2,Cash,2023-10-29,67696,Young Adult,2023,10,
+463,Bala,39,Male,Bangalore,Headphones,21971,4,Cash,2023-07-27,87884,Adult,2023,7,South
+464,Chetan,39,Female,Bangalore,Mobile,25431,4,UPI,2023-12-22,101724,Adult,2023,12,South
+465,Hari,58,Female,Hyderabad,Camera,19255,2,Card,2023-12-24,38510,Senior,2023,12,
+466,Jaya,24,Female,Bangalore,Laptop,2670,2,Cash,2023-10-23,5340,Young Adult,2023,10,South
+467,Divya,39,Male,Hyderabad,Tablet,44913,4,Card,2023-03-10,179652,Adult,2023,3,
+468,Bala,37,Female,Hyderabad,Laptop,37882,2,Cash,2023-10-11,75764,Adult,2023,10,
+469,Isha,24,Female,Trivandrum,Mobile,8909,5,Card,2023-09-08,44545,Young Adult,2023,9,
+470,Jaya,39,Female,Trivandrum,Tablet,48696,5,Cash,2024-01-01,243480,Adult,2024,1,
+471,Gopi,39,Male,Trivandrum,Laptop,1034,1,Card,2023-05-25,1034,Adult,2023,5,
+472,Jaya,58,Male,Kochi,Tablet,15807,3,UPI,2023-11-11,47421,Senior,2023,11,
+473,Bala,39,Male,Trivandrum,Laptop,10214,4,Cash,2023-09-20,40856,Adult,2023,9,
+474,Esha,25,Male,Kochi,Mobile,20408,5,Card,2023-01-23,102040,Young Adult,2023,1,
+475,Divya,39,Male,Kochi,Headphones,49169,5,Card,2023-05-28,245845,Adult,2023,5,
+476,Gopi,39,Male,Bangalore,Tablet,29349,2,Cash,2023-02-10,58698,Adult,2023,2,South
+477,Divya,39,Female,Trivandrum,Laptop,19942,2,Card,2023-10-19,39884,Adult,2023,10,
+478,Esha,42,Male,Hyderabad,Mobile,43773,4,UPI,2023-07-24,175092,Adult,2023,7,
+479,Isha,39,Male,Trivandrum,Laptop,33031,5,Card,2023-07-02,165155,Adult,2023,7,
+480,Jaya,39,Male,Trivandrum,Mobile,4075,5,UPI,2023-05-23,20375,Adult,2023,5,
+481,Esha,39,Female,Hyderabad,Mobile,44566,5,Card,2023-10-01,222830,Adult,2023,10,
+482,Hari,39,Female,Trivandrum,Tablet,24950,1,Cash,2023-04-11,24950,Adult,2023,4,
+483,Chetan,32,Female,Kochi,Mobile,44086,1,Cash,2023-10-31,44086,Young Adult,2023,10,
+484,Chetan,39,Female,Hyderabad,Headphones,26743,5,Card,2023-03-27,133715,Adult,2023,3,
+485,Hari,39,Male,Chennai,Tablet,10086,3,Cash,2023-01-15,30258,Adult,2023,1,South
+486,Chetan,43,Male,Hyderabad,Mobile,25535,5,Card,2023-03-15,127675,Adult,2023,3,
+487,Arun,39,Female,Chennai,Tablet,34220,4,UPI,2023-01-29,136880,Adult,2023,1,South
+488,Farhan,39,Male,Hyderabad,Camera,26024,1,Card,2023-08-11,26024,Adult,2023,8,
+489,Esha,39,Female,Hyderabad,Mobile,10458,4,UPI,2023-01-24,41832,Adult,2023,1,
+490,Arun,37,Female,Chennai,Camera,20650,3,Cash,2023-03-13,61950,Adult,2023,3,South
+491,Bala,39,Male,Chennai,Camera,26780,5,Cash,2023-11-20,133900,Adult,2023,11,South
+492,Bala,39,Female,Kochi,Tablet,7366,2,Cash,2023-10-14,14732,Adult,2023,10,
+493,Arun,39,Male,Hyderabad,Laptop,39844,4,Cash,2023-09-12,159376,Adult,2023,9,
+494,Arun,39,Female,Kochi,Mobile,44592,5,Card,2023-06-03,222960,Adult,2023,6,
+495,Divya,39,Female,Bangalore,Headphones,32586,1,Card,2023-09-19,32586,Adult,2023,9,South
+496,Farhan,39,Male,Hyderabad,Laptop,46587,2,Cash,2023-02-22,93174,Adult,2023,2,
+497,Bala,52,Male,Trivandrum,Mobile,29123,2,UPI,2023-08-12,58246,Senior,2023,8,
+498,Arun,53,Female,Chennai,Laptop,36447,1,Card,2023-09-07,36447,Senior,2023,9,South
+499,Esha,48,Male,Trivandrum,Tablet,43734,2,UPI,2023-10-11,87468,Adult,2023,10,
+500,Bala,26,Female,Chennai,Mobile,46559,3,UPI,2023-06-04,139677,Young Adult,2023,6,South
+501,Gopi,41,Female,Kochi,Laptop,44990,3,Card,2023-09-10,134970,Adult,2023,9,
+502,Chetan,28,Female,Trivandrum,Headphones,44721,2,Cash,2023-04-13,89442,Young Adult,2023,4,
+503,Gopi,39,Female,Chennai,Tablet,33946,2,Card,2023-08-10,67892,Adult,2023,8,South
+504,Hari,54,Male,Hyderabad,Camera,2142,5,Card,2023-12-26,10710,Senior,2023,12,
+505,Arun,39,Male,Bangalore,Headphones,30146,3,UPI,2023-03-28,90438,Adult,2023,3,South
+506,Chetan,39,Male,Bangalore,Laptop,37487,1,Card,2023-03-23,37487,Adult,2023,3,South
+507,Chetan,39,Male,Chennai,Camera,18674,3,Cash,2023-12-17,56022,Adult,2023,12,South
+508,Esha,39,Female,Kochi,Headphones,5045,4,UPI,2023-03-03,20180,Adult,2023,3,
+509,Jaya,22,Female,Chennai,Mobile,43665,4,UPI,2023-01-20,174660,Young Adult,2023,1,South
+510,Farhan,45,Male,Hyderabad,Laptop,13312,5,UPI,2023-04-06,66560,Adult,2023,4,
+511,Arun,39,Male,Trivandrum,Mobile,1316,3,UPI,2023-05-17,3948,Adult,2023,5,
+512,Chetan,58,Female,Bangalore,Mobile,48268,4,Cash,2023-09-25,193072,Senior,2023,9,South
+513,Gopi,39,Female,Hyderabad,Mobile,46132,1,Cash,2023-10-25,46132,Adult,2023,10,
+514,Isha,60,Female,Bangalore,Headphones,41741,5,Card,2023-07-22,208705,Senior,2023,7,South
+515,Gopi,39,Female,Hyderabad,Mobile,39279,3,Card,2023-09-15,117837,Adult,2023,9,
+516,Farhan,44,Female,Chennai,Mobile,18786,2,Cash,2023-07-24,37572,Adult,2023,7,South
+517,Esha,39,Female,Trivandrum,Tablet,13559,3,Card,2023-02-14,40677,Adult,2023,2,
+518,Esha,21,Female,Trivandrum,Tablet,32901,4,Cash,2023-03-31,131604,Young Adult,2023,3,
+519,Chetan,39,Female,Kochi,Laptop,20205,3,UPI,2023-07-01,60615,Adult,2023,7,
+520,Chetan,39,Female,Trivandrum,Mobile,9439,2,UPI,2023-04-05,18878,Adult,2023,4,
+521,Hari,39,Male,Chennai,Mobile,4777,3,Cash,2023-09-14,14331,Adult,2023,9,South
+522,Chetan,27,Female,Hyderabad,Tablet,18051,2,UPI,2023-11-12,36102,Young Adult,2023,11,
+523,Divya,39,Male,Trivandrum,Camera,35603,1,Cash,2023-04-02,35603,Adult,2023,4,
+524,Farhan,52,Female,Trivandrum,Mobile,33311,3,Card,2023-12-02,99933,Senior,2023,12,
+525,Hari,39,Female,Chennai,Headphones,27826,3,Cash,2023-05-23,83478,Adult,2023,5,South
+526,Farhan,39,Female,Bangalore,Mobile,38785,4,UPI,2023-09-17,155140,Adult,2023,9,South
+527,Jaya,39,Female,Trivandrum,Tablet,32989,5,UPI,2023-03-09,164945,Adult,2023,3,
+528,Bala,39,Male,Trivandrum,Headphones,2641,3,Cash,2023-07-12,7923,Adult,2023,7,
+529,Bala,24,Male,Hyderabad,Camera,38732,5,Cash,2023-05-25,193660,Young Adult,2023,5,
+530,Gopi,29,Male,Bangalore,Camera,21043,4,UPI,2023-10-17,84172,Young Adult,2023,10,South
+531,Chetan,42,Female,Chennai,Camera,17016,2,UPI,2023-04-15,34032,Adult,2023,4,South
+532,Divya,41,Male,Trivandrum,Laptop,7159,1,UPI,2023-02-12,7159,Adult,2023,2,
+533,Divya,26,Female,Kochi,Headphones,35995,5,UPI,2023-08-28,179975,Young Adult,2023,8,
+534,Farhan,39,Male,Chennai,Camera,22225,4,UPI,2023-08-25,88900,Adult,2023,8,South
+535,Chetan,33,Male,Kochi,Headphones,13234,4,Card,2023-09-09,52936,Young Adult,2023,9,
+536,Farhan,56,Female,Hyderabad,Laptop,48474,5,Card,2023-05-24,242370,Senior,2023,5,
+537,Jaya,49,Female,Bangalore,Laptop,24774,4,Card,2023-06-27,99096,Adult,2023,6,South
+538,Bala,56,Male,Trivandrum,Camera,21881,1,Card,2023-08-18,21881,Senior,2023,8,
+539,Esha,47,Male,Kochi,Camera,32266,1,Card,2023-01-10,32266,Adult,2023,1,
+540,Gopi,39,Female,Chennai,Camera,36201,3,Card,2023-10-08,108603,Adult,2023,10,South
+541,Gopi,26,Male,Kochi,Laptop,48954,3,UPI,2023-04-05,146862,Young Adult,2023,4,
+542,Gopi,39,Male,Bangalore,Mobile,38048,2,Cash,2023-03-26,76096,Adult,2023,3,South
+543,Arun,39,Male,Hyderabad,Tablet,4071,1,Card,2023-07-23,4071,Adult,2023,7,
+544,Chetan,47,Female,Bangalore,Laptop,30822,2,Cash,2023-12-14,61644,Adult,2023,12,South
+545,Esha,39,Female,Hyderabad,Tablet,49339,5,Cash,2023-03-01,246695,Adult,2023,3,
+546,Isha,34,Female,Hyderabad,Tablet,9707,4,UPI,2023-06-15,38828,Young Adult,2023,6,
+547,Chetan,24,Male,Hyderabad,Tablet,22500,3,Cash,2023-12-16,67500,Young Adult,2023,12,
+548,Farhan,38,Male,Bangalore,Laptop,46955,2,Card,2023-10-25,93910,Adult,2023,10,South
+549,Jaya,39,Male,Bangalore,Mobile,43164,4,UPI,2023-03-26,172656,Adult,2023,3,South
+550,Bala,22,Female,Bangalore,Laptop,11078,1,Cash,2023-08-31,11078,Young Adult,2023,8,South
+551,Hari,39,Female,Chennai,Headphones,43943,5,Cash,2023-06-18,219715,Adult,2023,6,South
+552,Chetan,39,Male,Trivandrum,Camera,39796,4,Card,2023-12-23,159184,Adult,2023,12,
+553,Esha,39,Male,Kochi,Mobile,39921,2,Cash,2023-01-31,79842,Adult,2023,1,
+554,Jaya,20,Male,Kochi,Mobile,18376,2,UPI,2023-01-01,36752,Young Adult,2023,1,
+555,Arun,39,Female,Kochi,Camera,12281,2,Card,2023-12-04,24562,Adult,2023,12,
+556,Bala,26,Male,Bangalore,Tablet,29690,5,Cash,2023-11-21,148450,Young Adult,2023,11,South
+557,Gopi,39,Female,Kochi,Laptop,19104,5,Card,2023-10-21,95520,Adult,2023,10,
+558,Isha,23,Female,Chennai,Tablet,15741,5,Cash,2023-05-20,78705,Young Adult,2023,5,South
+559,Hari,39,Female,Trivandrum,Headphones,26915,2,Card,2023-07-31,53830,Adult,2023,7,
+560,Isha,39,Male,Kochi,Laptop,40677,2,Card,2023-07-31,81354,Adult,2023,7,
+561,Divya,39,Female,Bangalore,Headphones,29036,1,UPI,2023-06-25,29036,Adult,2023,6,South
+562,Hari,27,Male,Hyderabad,Headphones,14098,2,Cash,2023-12-27,28196,Young Adult,2023,12,
+563,Gopi,39,Female,Chennai,Tablet,9663,2,Card,2023-12-26,19326,Adult,2023,12,South
+564,Farhan,39,Male,Kochi,Tablet,639,4,Card,2023-04-08,2556,Adult,2023,4,
+565,Arun,28,Male,Kochi,Laptop,26606,4,Cash,2023-11-18,106424,Young Adult,2023,11,
+566,Esha,39,Female,Trivandrum,Laptop,22377,2,UPI,2023-04-07,44754,Adult,2023,4,
+567,Hari,39,Male,Kochi,Camera,16765,2,UPI,2023-04-10,33530,Adult,2023,4,
+568,Hari,39,Male,Hyderabad,Headphones,583,4,Cash,2023-07-22,2332,Adult,2023,7,
+569,Arun,31,Male,Hyderabad,Tablet,2026,3,Cash,2023-04-21,6078,Young Adult,2023,4,
+570,Divya,27,Female,Chennai,Laptop,17630,4,Cash,2023-10-18,70520,Young Adult,2023,10,South
+571,Hari,39,Female,Bangalore,Camera,37786,4,Cash,2023-06-23,151144,Adult,2023,6,South
+572,Arun,21,Male,Hyderabad,Camera,32854,2,Card,2023-10-09,65708,Young Adult,2023,10,
+573,Isha,58,Male,Hyderabad,Headphones,13181,1,Card,2023-03-28,13181,Senior,2023,3,
+574,Chetan,43,Female,Hyderabad,Headphones,17565,2,Card,2023-03-25,35130,Adult,2023,3,
+575,Farhan,27,Female,Hyderabad,Mobile,6078,3,Card,2023-10-16,18234,Young Adult,2023,10,
+576,Esha,39,Female,Bangalore,Tablet,12128,3,Card,2023-01-01,36384,Adult,2023,1,South
+577,Isha,39,Female,Hyderabad,Headphones,31266,2,Cash,2023-07-05,62532,Adult,2023,7,
+578,Divya,39,Female,Kochi,Tablet,13352,5,Cash,2023-09-13,66760,Adult,2023,9,
+579,Bala,39,Female,Bangalore,Camera,48759,5,UPI,2023-12-12,243795,Adult,2023,12,South
+580,Farhan,39,Male,Hyderabad,Laptop,23091,2,UPI,2023-10-25,46182,Adult,2023,10,
+581,Bala,55,Female,Kochi,Tablet,6837,4,UPI,2023-03-07,27348,Senior,2023,3,
+582,Farhan,39,Male,Kochi,Tablet,39376,1,Cash,2023-12-24,39376,Adult,2023,12,
+583,Hari,31,Female,Hyderabad,Camera,13000,5,UPI,2023-09-24,65000,Young Adult,2023,9,
+584,Esha,44,Female,Trivandrum,Mobile,23903,1,Card,2023-04-13,23903,Adult,2023,4,
+585,Gopi,39,Female,Trivandrum,Laptop,33161,2,Card,2023-02-10,66322,Adult,2023,2,
+586,Isha,39,Female,Trivandrum,Mobile,11827,2,Cash,2023-09-17,23654,Adult,2023,9,
+587,Jaya,39,Male,Trivandrum,Camera,24325,5,UPI,2023-09-11,121625,Adult,2023,9,
+588,Gopi,33,Female,Hyderabad,Camera,10455,3,Cash,2023-08-22,31365,Young Adult,2023,8,
+589,Esha,55,Female,Kochi,Headphones,11288,2,Cash,2023-02-12,22576,Senior,2023,2,
+590,Arun,39,Male,Kochi,Mobile,16510,4,Cash,2023-07-24,66040,Adult,2023,7,
+591,Gopi,34,Female,Hyderabad,Laptop,28795,4,UPI,2023-04-30,115180,Young Adult,2023,4,
+592,Divya,39,Male,Kochi,Mobile,5536,1,UPI,2023-06-15,5536,Adult,2023,6,
+593,Hari,39,Male,Kochi,Mobile,24777,1,UPI,2023-02-20,24777,Adult,2023,2,
+594,Divya,47,Male,Trivandrum,Camera,5375,1,Cash,2023-09-28,5375,Adult,2023,9,
+595,Jaya,39,Male,Chennai,Headphones,20918,1,Cash,2023-10-26,20918,Adult,2023,10,South
+596,Divya,39,Male,Chennai,Headphones,40545,2,Cash,2023-06-26,81090,Adult,2023,6,South
+597,Isha,32,Female,Chennai,Camera,26148,2,UPI,2023-03-01,52296,Young Adult,2023,3,South
+598,Bala,35,Female,Kochi,Laptop,33289,2,Cash,2023-06-02,66578,Young Adult,2023,6,
+599,Hari,39,Male,Hyderabad,Camera,17852,1,Card,2023-03-17,17852,Adult,2023,3,
+600,Chetan,39,Male,Trivandrum,Headphones,35903,1,Card,2023-01-10,35903,Adult,2023,1,
+601,Farhan,39,Male,Trivandrum,Mobile,18040,5,UPI,2023-06-04,90200,Adult,2023,6,
+602,Gopi,22,Female,Hyderabad,Headphones,46870,3,Card,2023-07-24,140610,Young Adult,2023,7,
+603,Bala,39,Male,Hyderabad,Headphones,20031,5,Cash,2023-11-30,100155,Adult,2023,11,
+604,Esha,33,Male,Kochi,Tablet,22811,3,Cash,2023-05-12,68433,Young Adult,2023,5,
+605,Farhan,51,Male,Trivandrum,Mobile,27512,2,UPI,2023-12-08,55024,Senior,2023,12,
+606,Chetan,39,Male,Trivandrum,Tablet,42240,5,UPI,2023-11-08,211200,Adult,2023,11,
+607,Isha,18,Female,Kochi,Camera,4738,5,Cash,2023-07-13,23690,Teen,2023,7,
+608,Divya,39,Male,Kochi,Tablet,41138,5,Card,2023-10-25,205690,Adult,2023,10,
+609,Divya,42,Female,Bangalore,Headphones,38731,5,Card,2023-09-30,193655,Adult,2023,9,South
+610,Isha,48,Male,Hyderabad,Camera,45095,3,UPI,2023-04-25,135285,Adult,2023,4,
+611,Arun,39,Female,Kochi,Headphones,3115,2,Card,2023-11-10,6230,Adult,2023,11,
+612,Isha,39,Female,Bangalore,Laptop,1358,4,Cash,2023-01-27,5432,Adult,2023,1,South
+613,Hari,26,Male,Chennai,Tablet,23215,1,Cash,2023-11-01,23215,Young Adult,2023,11,South
+614,Arun,32,Female,Kochi,Headphones,18243,3,Cash,2023-08-17,54729,Young Adult,2023,8,
+615,Hari,43,Female,Bangalore,Headphones,39693,3,UPI,2023-02-01,119079,Adult,2023,2,South
+616,Gopi,41,Male,Bangalore,Laptop,2469,1,Cash,2023-10-10,2469,Adult,2023,10,South
+617,Farhan,39,Female,Chennai,Camera,30518,2,Card,2023-02-12,61036,Adult,2023,2,South
+618,Esha,58,Male,Bangalore,Laptop,7422,5,UPI,2023-06-04,37110,Senior,2023,6,South
+619,Farhan,39,Male,Hyderabad,Headphones,35402,1,Cash,2023-04-08,35402,Adult,2023,4,
+620,Bala,37,Male,Bangalore,Mobile,43791,2,UPI,2023-10-19,87582,Adult,2023,10,South
+621,Arun,39,Male,Bangalore,Laptop,26389,4,Card,2023-01-05,105556,Adult,2023,1,South
+622,Bala,39,Female,Hyderabad,Camera,3621,3,UPI,2023-08-05,10863,Adult,2023,8,
+623,Gopi,56,Female,Kochi,Laptop,6497,5,UPI,2023-05-06,32485,Senior,2023,5,
+624,Hari,39,Male,Chennai,Tablet,6601,1,Cash,2023-03-22,6601,Adult,2023,3,South
+625,Jaya,20,Female,Kochi,Mobile,4343,4,Card,2023-12-23,17372,Young Adult,2023,12,
+626,Divya,39,Female,Trivandrum,Laptop,32958,3,Cash,2023-03-30,98874,Adult,2023,3,
+627,Jaya,34,Female,Hyderabad,Mobile,31649,3,UPI,2023-07-19,94947,Young Adult,2023,7,
+628,Esha,26,Male,Kochi,Laptop,41811,2,Card,2023-03-14,83622,Young Adult,2023,3,
+629,Arun,39,Female,Bangalore,Mobile,27627,5,Card,2023-03-24,138135,Adult,2023,3,South
+630,Farhan,39,Female,Chennai,Mobile,45733,1,Card,2023-07-20,45733,Adult,2023,7,South
+631,Gopi,39,Male,Hyderabad,Tablet,27328,3,Cash,2023-11-17,81984,Adult,2023,11,
+632,Hari,39,Female,Kochi,Laptop,28377,3,Card,2023-11-16,85131,Adult,2023,11,
+633,Chetan,39,Female,Bangalore,Tablet,44326,1,Cash,2023-12-05,44326,Adult,2023,12,South
+634,Arun,25,Female,Trivandrum,Headphones,44355,5,Card,2023-02-18,221775,Young Adult,2023,2,
+635,Esha,34,Female,Trivandrum,Mobile,48650,5,Card,2023-05-01,243250,Young Adult,2023,5,
+636,Esha,39,Male,Trivandrum,Tablet,28615,2,Cash,2023-03-23,57230,Adult,2023,3,
+637,Divya,39,Female,Chennai,Tablet,21434,4,Card,2023-08-22,85736,Adult,2023,8,South
+638,Gopi,39,Male,Chennai,Tablet,18201,3,UPI,2023-09-11,54603,Adult,2023,9,South
+639,Arun,35,Female,Hyderabad,Laptop,33888,2,Card,2023-06-04,67776,Young Adult,2023,6,
+640,Farhan,39,Male,Bangalore,Camera,24559,3,Cash,2023-09-06,73677,Adult,2023,9,South
+641,Isha,39,Female,Hyderabad,Mobile,33419,3,Cash,2023-05-11,100257,Adult,2023,5,
+642,Esha,39,Female,Chennai,Tablet,13685,2,Card,2023-07-27,27370,Adult,2023,7,South
+643,Isha,39,Male,Trivandrum,Laptop,27537,2,Card,2023-12-12,55074,Adult,2023,12,
+644,Chetan,23,Female,Trivandrum,Tablet,19213,5,Cash,2023-11-12,96065,Young Adult,2023,11,
+645,Arun,39,Male,Chennai,Headphones,47185,4,Cash,2023-08-07,188740,Adult,2023,8,South
+646,Bala,39,Female,Bangalore,Laptop,44063,5,UPI,2023-06-07,220315,Adult,2023,6,South
+647,Bala,39,Female,Bangalore,Laptop,29960,2,Cash,2023-10-25,59920,Adult,2023,10,South
+648,Esha,35,Male,Trivandrum,Headphones,7966,4,Cash,2023-08-03,31864,Young Adult,2023,8,
+649,Isha,59,Male,Hyderabad,Tablet,21470,3,Cash,2023-05-30,64410,Senior,2023,5,
+650,Chetan,28,Male,Hyderabad,Tablet,28157,2,UPI,2023-06-29,56314,Young Adult,2023,6,
+651,Hari,30,Female,Hyderabad,Tablet,15663,3,Cash,2023-06-19,46989,Young Adult,2023,6,
+652,Bala,39,Female,Chennai,Mobile,49278,4,UPI,2023-09-08,197112,Adult,2023,9,South
+653,Isha,55,Male,Hyderabad,Headphones,40732,4,Card,2023-09-17,162928,Senior,2023,9,
+654,Isha,39,Male,Trivandrum,Mobile,44727,1,Card,2023-11-18,44727,Adult,2023,11,
+655,Farhan,32,Male,Chennai,Tablet,32786,4,UPI,2023-01-02,131144,Young Adult,2023,1,South
+656,Bala,39,Female,Bangalore,Laptop,4226,5,Cash,2023-05-31,21130,Adult,2023,5,South
+657,Gopi,39,Female,Trivandrum,Mobile,28221,5,Card,2023-09-20,141105,Adult,2023,9,
+658,Esha,39,Female,Bangalore,Laptop,27078,4,Card,2023-06-20,108312,Adult,2023,6,South
+659,Esha,30,Male,Chennai,Tablet,49906,4,Card,2023-12-10,199624,Young Adult,2023,12,South
+660,Divya,40,Female,Chennai,Headphones,27758,4,UPI,2023-11-24,111032,Adult,2023,11,South
+661,Hari,39,Male,Kochi,Laptop,38960,4,Cash,2023-04-13,155840,Adult,2023,4,
+662,Arun,39,Male,Bangalore,Headphones,21620,2,UPI,2023-11-30,43240,Adult,2023,11,South
+663,Divya,39,Female,Kochi,Mobile,45377,2,Cash,2023-05-12,90754,Adult,2023,5,
+664,Hari,39,Male,Hyderabad,Headphones,29159,3,Card,2023-04-20,87477,Adult,2023,4,
+665,Chetan,39,Female,Bangalore,Mobile,44743,3,Card,2023-03-09,134229,Adult,2023,3,South
+666,Isha,39,Male,Bangalore,Headphones,38162,1,Cash,2023-07-19,38162,Adult,2023,7,South
+667,Hari,39,Female,Trivandrum,Laptop,23442,2,Cash,2023-12-03,46884,Adult,2023,12,
+668,Gopi,31,Female,Bangalore,Camera,41586,5,UPI,2023-07-10,207930,Young Adult,2023,7,South
+669,Divya,33,Female,Kochi,Camera,49786,3,Card,2023-06-19,149358,Young Adult,2023,6,
+670,Jaya,39,Female,Chennai,Mobile,4237,1,Card,2023-09-10,4237,Adult,2023,9,South
+671,Hari,59,Male,Bangalore,Laptop,7868,5,Card,2023-10-14,39340,Senior,2023,10,South
+672,Farhan,39,Male,Kochi,Camera,16310,2,Card,2023-03-07,32620,Adult,2023,3,
+673,Gopi,39,Male,Trivandrum,Headphones,32441,5,Cash,2023-05-06,162205,Adult,2023,5,
+674,Farhan,39,Female,Kochi,Tablet,43953,1,Card,2023-10-16,43953,Adult,2023,10,
+675,Chetan,32,Female,Hyderabad,Laptop,28551,2,Cash,2023-04-24,57102,Young Adult,2023,4,
+676,Chetan,30,Female,Chennai,Camera,24712,2,Cash,2023-03-05,49424,Young Adult,2023,3,South
+677,Divya,39,Male,Trivandrum,Headphones,13381,1,Cash,2023-01-23,13381,Adult,2023,1,
+678,Divya,46,Female,Trivandrum,Mobile,33385,5,Cash,2023-01-10,166925,Adult,2023,1,
+679,Farhan,18,Male,Chennai,Headphones,11209,3,UPI,2023-11-23,33627,Teen,2023,11,South
+680,Gopi,29,Male,Chennai,Laptop,31436,4,Cash,2023-05-08,125744,Young Adult,2023,5,South
+681,Isha,32,Male,Hyderabad,Laptop,5741,1,Cash,2023-02-26,5741,Young Adult,2023,2,
+682,Gopi,39,Female,Trivandrum,Camera,19978,2,Card,2023-11-01,39956,Adult,2023,11,
+683,Esha,39,Male,Trivandrum,Laptop,5927,4,Cash,2023-02-05,23708,Adult,2023,2,
+684,Jaya,46,Female,Hyderabad,Camera,36607,4,Card,2023-01-18,146428,Adult,2023,1,
+685,Esha,39,Female,Bangalore,Tablet,42956,3,Card,2023-12-23,128868,Adult,2023,12,South
+686,Isha,39,Male,Trivandrum,Laptop,11511,4,Cash,2023-02-25,46044,Adult,2023,2,
+687,Esha,50,Female,Bangalore,Mobile,22733,5,Cash,2023-11-22,113665,Adult,2023,11,South
+688,Arun,39,Male,Hyderabad,Camera,47363,3,Card,2023-03-10,142089,Adult,2023,3,
+689,Arun,39,Female,Bangalore,Tablet,3569,3,Card,2023-06-19,10707,Adult,2023,6,South
+690,Gopi,58,Female,Trivandrum,Mobile,15548,4,UPI,2023-05-26,62192,Senior,2023,5,
+691,Arun,39,Female,Hyderabad,Tablet,7029,2,Cash,2023-10-23,14058,Adult,2023,10,
+692,Esha,39,Male,Chennai,Mobile,38340,2,Card,2023-06-05,76680,Adult,2023,6,South
+693,Hari,39,Male,Chennai,Laptop,18518,2,Card,2023-03-20,37036,Adult,2023,3,South
+694,Farhan,39,Male,Chennai,Mobile,4163,3,Cash,2023-07-30,12489,Adult,2023,7,South
+695,Esha,55,Female,Trivandrum,Mobile,20663,5,Card,2023-12-04,103315,Senior,2023,12,
+696,Hari,39,Female,Trivandrum,Headphones,7467,1,Card,2023-11-12,7467,Adult,2023,11,
+697,Chetan,39,Female,Kochi,Camera,4821,2,UPI,2023-08-20,9642,Adult,2023,8,
+698,Gopi,39,Female,Chennai,Laptop,15697,1,Cash,2023-12-02,15697,Adult,2023,12,South
+699,Divya,32,Male,Chennai,Camera,31340,4,Cash,2023-05-31,125360,Young Adult,2023,5,South
+700,Arun,39,Male,Trivandrum,Camera,4942,2,UPI,2023-05-15,9884,Adult,2023,5,
+701,Esha,39,Female,Trivandrum,Laptop,29063,3,Card,2023-05-21,87189,Adult,2023,5,
+702,Jaya,37,Female,Hyderabad,Laptop,11723,2,UPI,2023-09-20,23446,Adult,2023,9,
+703,Isha,39,Female,Kochi,Mobile,27639,2,UPI,2023-04-18,55278,Adult,2023,4,
+704,Chetan,39,Male,Chennai,Camera,30319,4,Cash,2023-03-11,121276,Adult,2023,3,South
+705,Chetan,39,Female,Trivandrum,Laptop,20421,5,Card,2023-08-11,102105,Adult,2023,8,
+706,Isha,54,Male,Bangalore,Laptop,27792,1,Card,2023-12-15,27792,Senior,2023,12,South
+707,Arun,57,Male,Kochi,Camera,34393,1,Card,2023-08-21,34393,Senior,2023,8,
+708,Chetan,52,Male,Trivandrum,Headphones,4445,4,Card,2023-01-01,17780,Senior,2023,1,
+709,Divya,39,Male,Bangalore,Mobile,8037,5,UPI,2023-06-05,40185,Adult,2023,6,South
+710,Esha,39,Male,Kochi,Camera,38844,5,Card,2023-04-05,194220,Adult,2023,4,
+711,Esha,39,Female,Chennai,Headphones,26786,3,Cash,2023-11-22,80358,Adult,2023,11,South
+712,Chetan,31,Male,Kochi,Laptop,14348,4,Cash,2023-09-13,57392,Young Adult,2023,9,
+713,Farhan,39,Female,Chennai,Camera,24767,2,UPI,2023-09-03,49534,Adult,2023,9,South
+714,Gopi,60,Female,Bangalore,Laptop,49457,2,Cash,2023-09-25,98914,Senior,2023,9,South
+715,Hari,39,Female,Bangalore,Camera,14265,2,Cash,2023-05-30,28530,Adult,2023,5,South
+716,Bala,39,Female,Kochi,Camera,39866,3,Card,2023-08-21,119598,Adult,2023,8,
+717,Jaya,39,Female,Hyderabad,Headphones,1293,4,Cash,2023-08-27,5172,Adult,2023,8,
+718,Hari,55,Male,Bangalore,Mobile,46348,1,UPI,2023-04-14,46348,Senior,2023,4,South
+719,Jaya,39,Male,Kochi,Camera,29389,1,UPI,2023-09-13,29389,Adult,2023,9,
+720,Chetan,39,Female,Hyderabad,Laptop,8560,5,Card,2023-11-27,42800,Adult,2023,11,
+721,Bala,29,Female,Bangalore,Tablet,45328,4,Cash,2023-05-29,181312,Young Adult,2023,5,South
+722,Hari,35,Male,Trivandrum,Laptop,26353,4,UPI,2023-09-09,105412,Young Adult,2023,9,
+723,Chetan,46,Male,Hyderabad,Tablet,12836,3,UPI,2023-09-12,38508,Adult,2023,9,
+724,Hari,39,Male,Chennai,Laptop,45065,2,UPI,2023-07-17,90130,Adult,2023,7,South
+725,Isha,38,Male,Chennai,Headphones,3202,4,Card,2023-10-27,12808,Adult,2023,10,South
+726,Farhan,39,Female,Bangalore,Headphones,9370,5,UPI,2023-11-14,46850,Adult,2023,11,South
+727,Divya,37,Male,Kochi,Mobile,639,5,Cash,2023-03-17,3195,Adult,2023,3,
+728,Divya,39,Male,Chennai,Tablet,7289,3,Card,2023-02-01,21867,Adult,2023,2,South
+729,Jaya,36,Female,Bangalore,Laptop,46641,1,UPI,2023-12-04,46641,Adult,2023,12,South
+730,Hari,20,Male,Trivandrum,Laptop,2474,1,Cash,2023-03-30,2474,Young Adult,2023,3,
+731,Divya,39,Male,Hyderabad,Laptop,3860,1,UPI,2023-06-07,3860,Adult,2023,6,
+732,Isha,31,Male,Chennai,Mobile,43262,4,UPI,2023-07-21,173048,Young Adult,2023,7,South
+733,Jaya,43,Male,Trivandrum,Camera,4464,3,Cash,2023-11-09,13392,Adult,2023,11,
+734,Jaya,51,Female,Chennai,Headphones,21073,3,UPI,2023-07-01,63219,Senior,2023,7,South
+735,Isha,39,Female,Hyderabad,Mobile,4374,3,UPI,2023-02-01,13122,Adult,2023,2,
+736,Esha,39,Male,Chennai,Mobile,39692,5,Card,2023-06-02,198460,Adult,2023,6,South
+737,Bala,28,Female,Trivandrum,Mobile,30890,2,Cash,2023-03-14,61780,Young Adult,2023,3,
+738,Hari,21,Female,Bangalore,Headphones,529,2,Card,2023-08-11,1058,Young Adult,2023,8,South
+739,Gopi,39,Female,Kochi,Headphones,31129,2,Cash,2023-06-02,62258,Adult,2023,6,
+740,Isha,39,Female,Hyderabad,Camera,2652,1,Cash,2023-07-31,2652,Adult,2023,7,
+741,Jaya,39,Male,Hyderabad,Laptop,48115,4,UPI,2023-05-02,192460,Adult,2023,5,
+742,Chetan,39,Male,Kochi,Mobile,34952,1,Cash,2023-07-16,34952,Adult,2023,7,
+743,Farhan,39,Female,Chennai,Camera,9351,1,Card,2023-03-26,9351,Adult,2023,3,South
+744,Farhan,39,Male,Trivandrum,Camera,14125,3,Card,2023-10-10,42375,Adult,2023,10,
+745,Jaya,20,Female,Hyderabad,Tablet,4331,2,Card,2023-09-02,8662,Young Adult,2023,9,
+746,Farhan,56,Male,Chennai,Laptop,35497,3,Card,2023-07-29,106491,Senior,2023,7,South
+747,Jaya,39,Male,Bangalore,Mobile,7556,1,Card,2023-11-18,7556,Adult,2023,11,South
+748,Gopi,19,Male,Chennai,Mobile,34428,4,Card,2023-08-09,137712,Young Adult,2023,8,South
+749,Gopi,39,Female,Bangalore,Laptop,1787,4,Cash,2023-10-07,7148,Adult,2023,10,South
+750,Chetan,43,Male,Kochi,Mobile,4618,2,Cash,2023-08-02,9236,Adult,2023,8,
+751,Farhan,19,Female,Trivandrum,Headphones,18190,5,Cash,2023-06-28,90950,Young Adult,2023,6,
+752,Chetan,45,Male,Bangalore,Headphones,39258,1,UPI,2023-07-13,39258,Adult,2023,7,South
+753,Divya,39,Male,Hyderabad,Mobile,25992,1,UPI,2023-03-19,25992,Adult,2023,3,
+754,Bala,39,Female,Hyderabad,Headphones,40301,5,Cash,2023-12-26,201505,Adult,2023,12,
+755,Gopi,31,Female,Hyderabad,Laptop,20020,3,UPI,2023-07-12,60060,Young Adult,2023,7,
+756,Hari,30,Female,Chennai,Tablet,36217,5,Cash,2023-04-08,181085,Young Adult,2023,4,South
+757,Bala,39,Female,Bangalore,Headphones,4646,5,Card,2023-04-25,23230,Adult,2023,4,South
+758,Jaya,24,Female,Kochi,Headphones,21787,4,Cash,2023-01-06,87148,Young Adult,2023,1,
+759,Farhan,43,Male,Bangalore,Mobile,36267,5,UPI,2024-01-01,181335,Adult,2024,1,South
+760,Esha,59,Male,Trivandrum,Headphones,27514,3,Card,2023-12-03,82542,Senior,2023,12,
+761,Jaya,39,Male,Hyderabad,Laptop,14311,2,Card,2023-06-27,28622,Adult,2023,6,
+762,Jaya,47,Male,Bangalore,Tablet,19884,2,UPI,2023-04-05,39768,Adult,2023,4,South
+763,Gopi,54,Female,Hyderabad,Tablet,18411,2,Card,2023-12-06,36822,Senior,2023,12,
+764,Isha,39,Male,Chennai,Laptop,5899,4,Card,2023-02-11,23596,Adult,2023,2,South
+765,Jaya,39,Male,Hyderabad,Laptop,5712,3,Card,2023-11-21,17136,Adult,2023,11,
+766,Jaya,58,Male,Kochi,Tablet,22891,3,Cash,2023-04-03,68673,Senior,2023,4,
+767,Gopi,45,Female,Hyderabad,Mobile,35635,3,Cash,2023-03-05,106905,Adult,2023,3,
+768,Hari,47,Female,Bangalore,Headphones,26401,2,Card,2023-09-06,52802,Adult,2023,9,South
+769,Farhan,56,Male,Chennai,Headphones,21212,3,Card,2023-04-13,63636,Senior,2023,4,South
+770,Jaya,39,Male,Hyderabad,Laptop,33472,4,UPI,2023-07-26,133888,Adult,2023,7,
+771,Isha,33,Male,Hyderabad,Camera,42926,4,UPI,2023-01-21,171704,Young Adult,2023,1,
+772,Chetan,29,Male,Kochi,Camera,14966,4,UPI,2023-09-20,59864,Young Adult,2023,9,
+773,Farhan,39,Male,Hyderabad,Camera,42499,2,Cash,2023-07-14,84998,Adult,2023,7,
+774,Isha,39,Female,Bangalore,Mobile,3645,3,UPI,2023-12-09,10935,Adult,2023,12,South
+775,Farhan,39,Female,Kochi,Tablet,43787,3,Cash,2023-12-11,131361,Adult,2023,12,
+776,Jaya,39,Male,Bangalore,Laptop,15370,3,Cash,2023-09-20,46110,Adult,2023,9,South
+777,Hari,39,Male,Kochi,Camera,9356,5,Cash,2023-03-11,46780,Adult,2023,3,
+778,Chetan,39,Male,Trivandrum,Tablet,39815,4,UPI,2023-11-02,159260,Adult,2023,11,
+779,Bala,39,Female,Kochi,Mobile,34172,5,Cash,2023-08-17,170860,Adult,2023,8,
+780,Hari,29,Male,Trivandrum,Mobile,20052,1,Cash,2023-02-01,20052,Young Adult,2023,2,
+781,Esha,39,Male,Trivandrum,Tablet,6775,4,Card,2023-02-19,27100,Adult,2023,2,
+782,Farhan,58,Female,Hyderabad,Headphones,34106,4,UPI,2023-11-02,136424,Senior,2023,11,
+783,Arun,42,Female,Hyderabad,Headphones,6508,3,Cash,2023-07-18,19524,Adult,2023,7,
+784,Arun,39,Male,Bangalore,Headphones,35875,1,UPI,2023-08-28,35875,Adult,2023,8,South
+785,Jaya,39,Female,Trivandrum,Tablet,29379,2,Cash,2023-10-18,58758,Adult,2023,10,
+786,Arun,50,Female,Chennai,Mobile,34571,1,Card,2023-11-06,34571,Adult,2023,11,South
+787,Esha,41,Male,Kochi,Tablet,45070,2,Card,2023-11-11,90140,Adult,2023,11,
+788,Jaya,39,Female,Kochi,Camera,4565,5,UPI,2023-06-08,22825,Adult,2023,6,
+789,Jaya,22,Male,Kochi,Mobile,25440,1,UPI,2023-03-25,25440,Young Adult,2023,3,
+790,Chetan,39,Female,Hyderabad,Camera,41380,3,Card,2023-07-15,124140,Adult,2023,7,
+791,Arun,39,Male,Kochi,Camera,25503,2,Card,2023-09-02,51006,Adult,2023,9,
+792,Bala,39,Male,Trivandrum,Camera,13892,1,Card,2023-05-03,13892,Adult,2023,5,
+793,Bala,39,Male,Bangalore,Headphones,47530,3,UPI,2023-10-21,142590,Adult,2023,10,South
+794,Divya,39,Male,Chennai,Headphones,40182,1,Card,2023-01-25,40182,Adult,2023,1,South
+795,Gopi,32,Male,Bangalore,Tablet,3672,2,Cash,2023-12-10,7344,Young Adult,2023,12,South
+796,Esha,39,Female,Bangalore,Mobile,23044,1,Card,2023-06-07,23044,Adult,2023,6,South
+797,Jaya,55,Female,Hyderabad,Mobile,9513,5,Cash,2023-12-25,47565,Senior,2023,12,
+798,Farhan,39,Male,Bangalore,Headphones,21027,4,Card,2023-12-07,84108,Adult,2023,12,South
+799,Chetan,39,Female,Trivandrum,Tablet,23730,2,UPI,2023-01-20,47460,Adult,2023,1,
+800,Gopi,39,Male,Hyderabad,Headphones,36526,2,Cash,2023-10-14,73052,Adult,2023,10,
+801,Esha,42,Female,Kochi,Tablet,17597,5,UPI,2023-01-05,87985,Adult,2023,1,
+802,Arun,39,Male,Trivandrum,Camera,46956,4,UPI,2023-04-02,187824,Adult,2023,4,
+803,Farhan,59,Male,Kochi,Mobile,41798,4,UPI,2023-04-05,167192,Senior,2023,4,
+804,Farhan,39,Male,Kochi,Headphones,33799,2,Card,2023-12-12,67598,Adult,2023,12,
+805,Isha,54,Male,Bangalore,Laptop,40708,1,UPI,2023-10-11,40708,Senior,2023,10,South
+806,Esha,39,Female,Kochi,Camera,35601,1,Cash,2023-03-13,35601,Adult,2023,3,
+807,Esha,55,Male,Kochi,Headphones,28741,5,UPI,2023-11-04,143705,Senior,2023,11,
+808,Bala,59,Female,Trivandrum,Headphones,21658,1,Cash,2023-10-21,21658,Senior,2023,10,
+809,Chetan,41,Female,Trivandrum,Tablet,26737,2,Cash,2023-03-13,53474,Adult,2023,3,
+810,Hari,51,Female,Kochi,Tablet,40795,4,Card,2023-01-19,163180,Senior,2023,1,
+811,Esha,39,Male,Chennai,Headphones,18788,5,UPI,2023-02-23,93940,Adult,2023,2,South
+812,Esha,39,Male,Chennai,Tablet,19688,1,Cash,2023-02-26,19688,Adult,2023,2,South
+813,Farhan,39,Female,Chennai,Tablet,25870,4,Cash,2023-08-24,103480,Adult,2023,8,South
+814,Chetan,39,Male,Bangalore,Tablet,27618,3,Cash,2023-12-14,82854,Adult,2023,12,South
+815,Chetan,39,Female,Chennai,Camera,19566,2,Card,2023-03-30,39132,Adult,2023,3,South
+816,Isha,56,Male,Hyderabad,Camera,39837,3,UPI,2023-12-03,119511,Senior,2023,12,
+817,Hari,39,Male,Hyderabad,Laptop,33291,4,Cash,2023-06-04,133164,Adult,2023,6,
+818,Hari,41,Female,Chennai,Headphones,7775,1,Card,2023-08-24,7775,Adult,2023,8,South
+819,Gopi,58,Female,Hyderabad,Camera,3250,1,UPI,2023-09-26,3250,Senior,2023,9,
+820,Esha,52,Female,Trivandrum,Laptop,19508,4,UPI,2023-11-21,78032,Senior,2023,11,
+821,Chetan,47,Male,Chennai,Headphones,42458,2,Card,2023-02-28,84916,Adult,2023,2,South
+822,Arun,39,Female,Bangalore,Headphones,955,5,UPI,2023-12-08,4775,Adult,2023,12,South
+823,Farhan,26,Female,Bangalore,Camera,2113,3,UPI,2023-09-23,6339,Young Adult,2023,9,South
+824,Isha,39,Male,Chennai,Tablet,12229,2,Cash,2023-09-25,24458,Adult,2023,9,South
+825,Chetan,39,Male,Kochi,Laptop,48334,1,Cash,2023-11-12,48334,Adult,2023,11,
+826,Gopi,39,Male,Kochi,Headphones,10261,1,UPI,2023-12-28,10261,Adult,2023,12,
+827,Gopi,39,Male,Bangalore,Headphones,13227,1,Card,2023-07-12,13227,Adult,2023,7,South
+828,Farhan,37,Female,Kochi,Mobile,21740,2,UPI,2023-06-03,43480,Adult,2023,6,
+829,Esha,39,Male,Trivandrum,Headphones,32478,3,Card,2023-06-09,97434,Adult,2023,6,
+830,Farhan,39,Female,Bangalore,Headphones,14599,5,UPI,2023-01-16,72995,Adult,2023,1,South
+831,Isha,39,Male,Hyderabad,Tablet,20238,1,Card,2023-04-04,20238,Adult,2023,4,
+832,Esha,59,Male,Bangalore,Laptop,11163,2,UPI,2023-10-31,22326,Senior,2023,10,South
+833,Esha,31,Male,Trivandrum,Mobile,17436,3,UPI,2023-11-14,52308,Young Adult,2023,11,
+834,Farhan,39,Female,Bangalore,Mobile,9019,3,Cash,2023-04-22,27057,Adult,2023,4,South
+835,Jaya,51,Female,Kochi,Mobile,36238,2,Card,2023-01-31,72476,Senior,2023,1,
+836,Bala,56,Female,Bangalore,Headphones,19856,1,Card,2023-05-29,19856,Senior,2023,5,South
+837,Esha,39,Female,Hyderabad,Laptop,10795,1,Card,2023-05-01,10795,Adult,2023,5,
+838,Isha,39,Female,Trivandrum,Headphones,33671,2,Cash,2023-11-18,67342,Adult,2023,11,
+839,Jaya,35,Female,Hyderabad,Camera,13535,1,UPI,2023-12-07,13535,Young Adult,2023,12,
+840,Bala,39,Female,Bangalore,Camera,17602,1,Cash,2023-09-03,17602,Adult,2023,9,South
+841,Arun,49,Female,Kochi,Camera,30431,5,Card,2023-03-07,152155,Adult,2023,3,
+842,Isha,39,Male,Chennai,Tablet,14339,3,Cash,2023-12-17,43017,Adult,2023,12,South
+843,Isha,39,Male,Hyderabad,Laptop,26288,5,UPI,2023-09-27,131440,Adult,2023,9,
+844,Farhan,50,Male,Hyderabad,Headphones,20621,1,UPI,2023-08-31,20621,Adult,2023,8,
+845,Farhan,46,Female,Kochi,Laptop,33916,4,Cash,2023-08-14,135664,Adult,2023,8,
+846,Farhan,58,Male,Kochi,Headphones,29892,3,UPI,2023-06-26,89676,Senior,2023,6,
+847,Farhan,39,Male,Bangalore,Camera,3694,2,UPI,2023-10-25,7388,Adult,2023,10,South
+848,Arun,39,Male,Chennai,Laptop,35677,5,UPI,2023-10-14,178385,Adult,2023,10,South
+849,Isha,39,Male,Hyderabad,Tablet,40751,1,Card,2023-03-25,40751,Adult,2023,3,
+850,Bala,39,Male,Chennai,Headphones,41914,4,Card,2023-04-15,167656,Adult,2023,4,South
+851,Hari,39,Male,Trivandrum,Camera,7465,5,UPI,2023-10-30,37325,Adult,2023,10,
+852,Divya,41,Male,Kochi,Camera,6525,1,Card,2023-05-04,6525,Adult,2023,5,
+853,Arun,43,Female,Hyderabad,Laptop,32578,5,Card,2023-02-03,162890,Adult,2023,2,
+854,Isha,39,Female,Bangalore,Camera,12408,5,Cash,2023-01-21,62040,Adult,2023,1,South
+855,Arun,39,Male,Trivandrum,Headphones,35865,1,UPI,2023-08-02,35865,Adult,2023,8,
+856,Gopi,40,Male,Kochi,Laptop,26879,2,Cash,2023-04-11,53758,Adult,2023,4,
+857,Hari,44,Female,Kochi,Mobile,41169,1,Cash,2023-05-15,41169,Adult,2023,5,
+858,Esha,48,Female,Hyderabad,Headphones,29256,5,UPI,2023-10-06,146280,Adult,2023,10,
+859,Esha,54,Male,Hyderabad,Camera,12916,2,Cash,2023-06-29,25832,Senior,2023,6,
+860,Hari,39,Male,Hyderabad,Headphones,26578,1,Cash,2023-01-15,26578,Adult,2023,1,
+861,Divya,23,Female,Hyderabad,Headphones,23769,2,Card,2023-09-13,47538,Young Adult,2023,9,
+862,Jaya,47,Female,Trivandrum,Mobile,11183,2,Card,2023-06-14,22366,Adult,2023,6,
+863,Farhan,41,Female,Bangalore,Camera,38135,5,Cash,2023-09-27,190675,Adult,2023,9,South
+864,Chetan,39,Female,Hyderabad,Mobile,29940,3,Cash,2023-12-26,89820,Adult,2023,12,
+865,Jaya,39,Male,Kochi,Headphones,2325,3,Card,2023-03-26,6975,Adult,2023,3,
+866,Hari,39,Female,Chennai,Camera,6289,1,UPI,2023-09-22,6289,Adult,2023,9,South
+867,Chetan,39,Male,Hyderabad,Headphones,5391,5,Cash,2023-06-23,26955,Adult,2023,6,
+868,Bala,52,Male,Kochi,Camera,27745,3,Card,2023-02-21,83235,Senior,2023,2,
+869,Chetan,39,Male,Bangalore,Headphones,23962,2,UPI,2023-12-16,47924,Adult,2023,12,South
+870,Isha,39,Female,Trivandrum,Camera,22496,3,Card,2023-03-02,67488,Adult,2023,3,
+871,Bala,40,Male,Kochi,Laptop,23743,3,Card,2023-12-23,71229,Adult,2023,12,
+872,Jaya,39,Female,Hyderabad,Headphones,25359,4,Card,2023-11-19,101436,Adult,2023,11,
+873,Jaya,39,Female,Trivandrum,Camera,19324,3,UPI,2023-04-05,57972,Adult,2023,4,
+874,Bala,39,Male,Hyderabad,Headphones,40951,3,Card,2023-07-06,122853,Adult,2023,7,
+875,Jaya,39,Female,Bangalore,Headphones,41735,3,Card,2023-02-16,125205,Adult,2023,2,South
+876,Isha,56,Female,Hyderabad,Camera,8431,4,Cash,2023-07-15,33724,Senior,2023,7,
+877,Bala,39,Male,Kochi,Tablet,14546,5,Cash,2023-06-26,72730,Adult,2023,6,
+878,Esha,55,Female,Hyderabad,Headphones,33755,3,UPI,2023-07-01,101265,Senior,2023,7,
+879,Farhan,39,Female,Kochi,Camera,24059,5,Cash,2023-08-31,120295,Adult,2023,8,
+880,Chetan,39,Female,Kochi,Headphones,34046,3,Cash,2023-01-18,102138,Adult,2023,1,
+881,Divya,25,Female,Chennai,Headphones,40326,5,Cash,2023-02-04,201630,Young Adult,2023,2,South
+882,Isha,26,Female,Kochi,Laptop,18756,3,Card,2023-04-28,56268,Young Adult,2023,4,
+883,Hari,24,Female,Chennai,Tablet,3437,2,Card,2023-06-30,6874,Young Adult,2023,6,South
+884,Isha,43,Female,Bangalore,Tablet,29171,3,UPI,2023-05-09,87513,Adult,2023,5,South
+885,Gopi,19,Female,Chennai,Camera,11580,4,Cash,2023-12-23,46320,Young Adult,2023,12,South
+886,Farhan,41,Female,Hyderabad,Laptop,25129,4,Card,2023-10-04,100516,Adult,2023,10,
+887,Gopi,39,Female,Trivandrum,Laptop,31110,1,UPI,2023-12-10,31110,Adult,2023,12,
+888,Jaya,19,Female,Trivandrum,Camera,831,2,Cash,2023-11-09,1662,Young Adult,2023,11,
+889,Hari,23,Male,Trivandrum,Headphones,49907,1,Card,2023-08-11,49907,Young Adult,2023,8,
+890,Jaya,39,Female,Bangalore,Headphones,4217,4,UPI,2023-02-26,16868,Adult,2023,2,South
+891,Jaya,34,Female,Chennai,Laptop,37708,5,Cash,2023-12-14,188540,Young Adult,2023,12,South
+892,Esha,39,Female,Bangalore,Headphones,29285,5,Cash,2023-03-17,146425,Adult,2023,3,South
+893,Farhan,53,Male,Trivandrum,Laptop,40095,1,Card,2023-06-21,40095,Senior,2023,6,
+894,Hari,39,Male,Chennai,Camera,21445,3,UPI,2023-02-06,64335,Adult,2023,2,South
+895,Chetan,47,Male,Hyderabad,Headphones,8427,3,Cash,2023-10-11,25281,Adult,2023,10,
+896,Jaya,54,Female,Chennai,Tablet,39672,3,Card,2023-08-26,119016,Senior,2023,8,South
+897,Isha,39,Male,Trivandrum,Headphones,2578,4,Card,2023-11-26,10312,Adult,2023,11,
+898,Arun,39,Female,Hyderabad,Tablet,14701,2,Cash,2023-10-30,29402,Adult,2023,10,
+899,Farhan,39,Female,Hyderabad,Mobile,10181,2,Card,2023-05-05,20362,Adult,2023,5,
+900,Farhan,47,Female,Hyderabad,Headphones,8599,4,Card,2023-05-02,34396,Adult,2023,5,
+901,Hari,47,Female,Bangalore,Laptop,26569,5,Card,2023-07-08,132845,Adult,2023,7,South
+902,Arun,39,Female,Trivandrum,Tablet,34726,1,Cash,2023-07-17,34726,Adult,2023,7,
+903,Gopi,50,Female,Chennai,Laptop,37970,1,UPI,2023-07-30,37970,Adult,2023,7,South
+904,Divya,39,Female,Bangalore,Laptop,35752,1,Card,2023-06-29,35752,Adult,2023,6,South
+905,Bala,30,Female,Kochi,Laptop,45180,2,UPI,2023-04-17,90360,Young Adult,2023,4,
+906,Divya,32,Male,Chennai,Camera,26565,2,UPI,2023-02-13,53130,Young Adult,2023,2,South
+907,Bala,34,Female,Trivandrum,Mobile,30509,3,Cash,2024-01-01,91527,Young Adult,2024,1,
+908,Gopi,33,Female,Kochi,Headphones,23405,2,Card,2023-02-26,46810,Young Adult,2023,2,
+909,Esha,39,Male,Chennai,Headphones,7596,1,UPI,2023-03-30,7596,Adult,2023,3,South
+910,Bala,39,Female,Bangalore,Tablet,8051,1,UPI,2023-12-22,8051,Adult,2023,12,South
+911,Farhan,39,Female,Hyderabad,Laptop,38248,4,Cash,2023-12-11,152992,Adult,2023,12,
+912,Jaya,27,Male,Bangalore,Headphones,40958,1,Card,2023-04-07,40958,Young Adult,2023,4,South
+913,Farhan,39,Male,Chennai,Laptop,22586,5,Card,2023-02-20,112930,Adult,2023,2,South
+914,Arun,38,Male,Hyderabad,Mobile,19611,4,Cash,2023-06-30,78444,Adult,2023,6,
+915,Bala,28,Male,Trivandrum,Mobile,16802,1,Card,2023-07-30,16802,Young Adult,2023,7,
+916,Jaya,39,Male,Bangalore,Mobile,48409,2,UPI,2023-09-22,96818,Adult,2023,9,South
+917,Chetan,48,Female,Trivandrum,Camera,47278,3,UPI,2023-02-22,141834,Adult,2023,2,
+918,Gopi,39,Male,Trivandrum,Headphones,27158,2,Card,2023-09-29,54316,Adult,2023,9,
+919,Jaya,58,Female,Bangalore,Laptop,22083,5,Card,2023-02-21,110415,Senior,2023,2,South
+920,Isha,55,Male,Kochi,Camera,11124,5,UPI,2023-02-13,55620,Senior,2023,2,
+921,Gopi,38,Male,Bangalore,Headphones,30168,1,Card,2023-08-04,30168,Adult,2023,8,South
+922,Isha,39,Female,Chennai,Headphones,20474,1,Cash,2023-02-24,20474,Adult,2023,2,South
+923,Divya,55,Female,Trivandrum,Headphones,15759,5,Card,2023-01-23,78795,Senior,2023,1,
+924,Bala,31,Female,Bangalore,Camera,35984,4,Cash,2023-01-24,143936,Young Adult,2023,1,South
+925,Bala,35,Female,Kochi,Tablet,48343,1,Card,2023-12-26,48343,Young Adult,2023,12,
+926,Esha,39,Male,Bangalore,Camera,43595,1,Card,2024-01-01,43595,Adult,2024,1,South
+927,Arun,54,Male,Chennai,Mobile,15073,4,Card,2023-12-07,60292,Senior,2023,12,South
+928,Farhan,20,Female,Bangalore,Camera,22989,2,UPI,2023-03-29,45978,Young Adult,2023,3,South
+929,Farhan,30,Female,Chennai,Tablet,30885,4,Card,2023-12-20,123540,Young Adult,2023,12,South
+930,Farhan,39,Female,Kochi,Camera,29294,5,Cash,2023-02-04,146470,Adult,2023,2,
+931,Divya,39,Female,Chennai,Camera,48701,2,Cash,2023-05-13,97402,Adult,2023,5,South
+932,Divya,35,Female,Bangalore,Laptop,23367,3,Cash,2023-01-17,70101,Young Adult,2023,1,South
+933,Divya,53,Female,Hyderabad,Mobile,34169,2,Cash,2023-10-20,68338,Senior,2023,10,
+934,Isha,48,Male,Kochi,Laptop,4059,2,UPI,2023-03-07,8118,Adult,2023,3,
+935,Arun,39,Male,Kochi,Camera,5270,3,Cash,2023-03-18,15810,Adult,2023,3,
+936,Esha,39,Female,Trivandrum,Mobile,43855,5,Cash,2023-01-22,219275,Adult,2023,1,
+937,Gopi,31,Female,Trivandrum,Mobile,27697,4,UPI,2023-11-15,110788,Young Adult,2023,11,
+938,Isha,39,Female,Kochi,Headphones,26238,1,Card,2023-02-26,26238,Adult,2023,2,
+939,Arun,39,Male,Chennai,Tablet,45085,1,Card,2023-10-14,45085,Adult,2023,10,South
+940,Arun,39,Female,Hyderabad,Laptop,23736,1,UPI,2023-06-06,23736,Adult,2023,6,
+941,Hari,50,Female,Hyderabad,Tablet,24946,1,Cash,2023-08-20,24946,Adult,2023,8,
+942,Chetan,28,Male,Kochi,Tablet,41931,3,Cash,2023-11-23,125793,Young Adult,2023,11,
+943,Chetan,21,Male,Bangalore,Mobile,31433,4,Card,2023-01-26,125732,Young Adult,2023,1,South
+944,Farhan,26,Male,Hyderabad,Mobile,15733,4,UPI,2023-05-28,62932,Young Adult,2023,5,
+945,Gopi,31,Female,Bangalore,Camera,4882,3,Cash,2023-06-23,14646,Young Adult,2023,6,South
+946,Divya,39,Female,Trivandrum,Headphones,6002,4,Card,2023-12-10,24008,Adult,2023,12,
+947,Hari,39,Female,Bangalore,Laptop,32247,5,UPI,2023-12-05,161235,Adult,2023,12,South
+948,Bala,39,Female,Kochi,Mobile,27453,2,Cash,2023-06-17,54906,Adult,2023,6,
+949,Gopi,39,Male,Trivandrum,Tablet,27888,1,Cash,2023-12-06,27888,Adult,2023,12,
+950,Farhan,26,Female,Hyderabad,Camera,20794,3,Cash,2023-08-29,62382,Young Adult,2023,8,
+951,Gopi,40,Male,Kochi,Laptop,37248,5,Card,2023-09-04,186240,Adult,2023,9,
+952,Esha,39,Female,Trivandrum,Mobile,1795,3,UPI,2023-08-04,5385,Adult,2023,8,
+953,Gopi,39,Female,Bangalore,Camera,9295,3,Cash,2023-06-26,27885,Adult,2023,6,South
+954,Hari,39,Female,Kochi,Laptop,47911,3,Card,2023-11-16,143733,Adult,2023,11,
+955,Bala,39,Female,Hyderabad,Camera,34940,3,UPI,2023-08-22,104820,Adult,2023,8,
+956,Hari,41,Male,Bangalore,Headphones,29399,2,Cash,2023-08-19,58798,Adult,2023,8,South
+957,Jaya,39,Female,Trivandrum,Headphones,43825,2,Card,2023-09-06,87650,Adult,2023,9,
+958,Bala,39,Male,Bangalore,Laptop,30442,4,UPI,2023-06-20,121768,Adult,2023,6,South
+959,Isha,32,Female,Bangalore,Headphones,10696,1,Cash,2023-11-27,10696,Young Adult,2023,11,South
+960,Hari,28,Female,Hyderabad,Laptop,9102,4,Cash,2023-04-27,36408,Young Adult,2023,4,
+961,Isha,32,Female,Kochi,Headphones,32855,5,Cash,2023-01-10,164275,Young Adult,2023,1,
+962,Farhan,39,Male,Kochi,Laptop,29592,5,Card,2023-01-23,147960,Adult,2023,1,
+963,Farhan,44,Female,Bangalore,Headphones,43669,3,UPI,2023-04-13,131007,Adult,2023,4,South
+964,Esha,39,Male,Hyderabad,Headphones,6334,3,UPI,2023-06-22,19002,Adult,2023,6,
+965,Bala,39,Male,Bangalore,Mobile,34840,3,Cash,2023-09-26,104520,Adult,2023,9,South
+966,Bala,51,Female,Bangalore,Mobile,43787,1,UPI,2023-09-05,43787,Senior,2023,9,South
+967,Isha,26,Male,Chennai,Tablet,5462,4,Cash,2023-08-26,21848,Young Adult,2023,8,South
+968,Divya,41,Male,Hyderabad,Laptop,35873,3,Card,2023-10-09,107619,Adult,2023,10,
+969,Esha,45,Male,Hyderabad,Mobile,41955,3,UPI,2023-04-01,125865,Adult,2023,4,
+970,Bala,39,Female,Kochi,Laptop,15831,1,UPI,2023-05-14,15831,Adult,2023,5,
+971,Farhan,53,Female,Chennai,Headphones,9804,2,Card,2023-11-23,19608,Senior,2023,11,South
+972,Hari,20,Male,Bangalore,Camera,7999,3,Card,2023-12-07,23997,Young Adult,2023,12,South
+973,Bala,39,Male,Bangalore,Mobile,9397,1,Card,2023-12-07,9397,Adult,2023,12,South
+974,Isha,39,Male,Bangalore,Camera,40999,5,UPI,2023-12-19,204995,Adult,2023,12,South
+975,Isha,40,Male,Chennai,Camera,40009,1,UPI,2023-09-12,40009,Adult,2023,9,South
+976,Chetan,39,Female,Hyderabad,Headphones,12664,2,UPI,2023-09-03,25328,Adult,2023,9,
+977,Arun,39,Male,Chennai,Headphones,47592,3,Cash,2023-10-09,142776,Adult,2023,10,South
+978,Chetan,24,Male,Chennai,Mobile,1915,2,Cash,2023-02-28,3830,Young Adult,2023,2,South
+979,Chetan,53,Female,Kochi,Mobile,26282,3,Cash,2023-12-09,78846,Senior,2023,12,
+980,Divya,39,Male,Bangalore,Tablet,23793,3,Cash,2023-12-23,71379,Adult,2023,12,South
+981,Farhan,39,Male,Hyderabad,Mobile,47144,5,Cash,2023-01-24,235720,Adult,2023,1,
+982,Jaya,45,Female,Bangalore,Tablet,42268,4,Cash,2023-11-13,169072,Adult,2023,11,South
+983,Divya,39,Male,Trivandrum,Mobile,11819,3,UPI,2023-03-14,35457,Adult,2023,3,
+984,Esha,20,Female,Hyderabad,Camera,6391,2,UPI,2023-06-07,12782,Young Adult,2023,6,
+985,Jaya,21,Male,Trivandrum,Laptop,42937,4,Cash,2023-01-12,171748,Young Adult,2023,1,
+986,Bala,39,Female,Kochi,Laptop,2624,2,Cash,2023-12-05,5248,Adult,2023,12,
+987,Isha,39,Female,Trivandrum,Headphones,35137,1,Cash,2023-12-30,35137,Adult,2023,12,
+988,Divya,39,Female,Trivandrum,Headphones,36833,5,Cash,2023-07-09,184165,Adult,2023,7,
+989,Arun,59,Female,Bangalore,Tablet,15545,1,Cash,2023-05-19,15545,Senior,2023,5,South
+990,Bala,37,Female,Kochi,Headphones,32028,1,Cash,2023-12-02,32028,Adult,2023,12,
+991,Chetan,39,Male,Bangalore,Tablet,20789,4,Cash,2023-12-28,83156,Adult,2023,12,South
+992,Arun,39,Female,Chennai,Camera,26556,5,Card,2023-03-14,132780,Adult,2023,3,South
+993,Chetan,34,Female,Kochi,Camera,22180,3,UPI,2023-06-07,66540,Young Adult,2023,6,
+994,Jaya,24,Female,Chennai,Mobile,12780,1,UPI,2023-07-28,12780,Young Adult,2023,7,South
+995,Isha,38,Male,Hyderabad,Laptop,16463,5,Card,2023-03-26,82315,Adult,2023,3,
+996,Chetan,39,Female,Hyderabad,Tablet,29084,5,Cash,2023-06-13,145420,Adult,2023,6,
+997,Farhan,35,Male,Chennai,Mobile,18051,4,Card,2023-06-06,72204,Young Adult,2023,6,South
+998,Chetan,39,Female,Chennai,Headphones,39070,3,Card,2023-03-03,117210,Adult,2023,3,South
+999,Arun,39,Female,Hyderabad,Camera,8705,3,Cash,2023-06-27,26115,Adult,2023,6,
+1000,Bala,39,Male,Hyderabad,Laptop,41259,2,Card,2023-08-05,82518,Adult,2023,8,
