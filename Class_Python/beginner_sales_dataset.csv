@@ -1,0 +1,101 @@
+Order_ID,Customer_Age,City,Product,Price,Quantity,Payment_Mode,Purchase_Date
+1,58,Madurai,Laptop,49098,3,Card,2025-04-25
+2,26,Madurai,Headphones,6197,5,Net Banking,2025-01-17
+3,19,Madurai,Mouse,15747,5,UPI,2025-10-15
+4,30,Hyderabad,Monitor,14946,4,Cash,2025-01-04
+5,28,Kochi,Keyboard,18710,2,Card,2025-06-22
+6,24,Madurai,Monitor,6838,3,Cash,2025-11-06
+7,34,Madurai,Monitor,35642,1,Net Banking,2025-02-10
+8,53,Bengaluru,Headphones,58528,3,Card,2025-12-27
+9,22,Madurai,Mouse,51163,3,UPI,2025-04-30
+10,24,Kochi,Keyboard,30214,3,Card,2025-07-09
+11,40,Chennai,Keyboard,46494,1,Card,2025-10-01
+12,33,Chennai,Monitor,25367,3,Card,2025-12-17
+13,38,Madurai,Mouse,54357,1,Cash,2025-07-25
+14,35,Madurai,Mouse,37670,3,Card,2025-12-02
+15,49,Kochi,Monitor,9863,3,Card,2025-05-07
+16,53,Hyderabad,Keyboard,49456,5,Net Banking,2025-10-26
+17,43,Bengaluru,Mouse,9565,5,Net Banking,2025-02-16
+18,21,Madurai,Mouse,41620,2,Net Banking,2025-11-02
+19,22,Kochi,Monitor,39552,4,Cash,2025-10-11
+20,18,Madurai,Headphones,49709,3,Cash,2025-02-27
+21,36,Kochi,Mouse,30235,1,Cash,2025-09-14
+22,29,Hyderabad,Laptop,57550,3,Card,2025-03-20
+23,41,Chennai,Headphones,51528,5,UPI,2025-11-03
+24,38,Kochi,Laptop,7831,3,Cash,2025-05-03
+25,21,Chennai,Headphones,5661,1,Net Banking,2025-02-05
+26,52,Chennai,Mouse,43737,4,Card,2025-05-16
+27,51,Hyderabad,Monitor,14380,5,Card,2025-06-09
+28,43,Bengaluru,Monitor,59457,5,Net Banking,2025-03-03
+29,33,Chennai,Laptop,22656,1,Card,2025-10-29
+30,32,Madurai,Laptop,46889,1,Card,2025-02-04
+31,20,Bengaluru,Laptop,34195,2,Cash,2025-12-09
+32,49,Chennai,Headphones,9171,5,Net Banking,2025-05-05
+33,48,Kochi,Mouse,6681,1,Net Banking,2025-07-01
+34,45,Kochi,Monitor,57112,1,UPI,2025-02-01
+35,43,Bengaluru,Laptop,16795,2,Card,2025-10-02
+36,46,Chennai,Monitor,12525,3,Net Banking,2025-05-08
+37,22,Kochi,Headphones,6916,1,UPI,2025-02-17
+38,33,Chennai,Monitor,32326,4,Card,2025-07-25
+39,21,Chennai,Monitor,641,4,Cash,2025-08-21
+40,36,Kochi,Headphones,43876,4,Card,2025-04-08
+41,36,Chennai,Laptop,38457,5,UPI,2025-06-10
+42,21,Madurai,Headphones,31746,5,Card,2025-01-30
+43,50,Madurai,Mouse,4990,5,UPI,2025-12-12
+44,33,Kochi,Laptop,58845,5,Card,2025-10-24
+45,56,Madurai,Headphones,5872,4,Cash,2025-05-14
+46,31,Bengaluru,Mouse,17907,4,Card,2025-12-10
+47,59,Bengaluru,Monitor,21220,1,UPI,2025-08-23
+48,57,Hyderabad,Laptop,5301,5,Card,2025-09-17
+49,34,Chennai,Keyboard,58228,1,Card,2025-07-09
+50,36,Chennai,Monitor,55140,5,Cash,2025-11-10
+51,59,Hyderabad,Laptop,44269,5,Cash,2025-12-06
+52,24,Chennai,Keyboard,8064,1,Card,2025-05-20
+53,36,Hyderabad,Mouse,47529,3,Card,2025-12-18
+54,58,Bengaluru,Headphones,32516,3,UPI,2025-02-17
+55,58,Kochi,Keyboard,3389,1,Cash,2025-03-08
+56,58,Bengaluru,Mouse,49077,4,Net Banking,2025-10-15
+57,18,Madurai,Laptop,58375,2,UPI,2025-07-09
+58,55,Hyderabad,Mouse,28666,2,UPI,2025-06-07
+59,41,Madurai,Keyboard,14267,2,UPI,2025-07-01
+60,53,Kochi,Headphones,49617,2,Card,2025-03-25
+61,29,Kochi,Laptop,12254,3,Net Banking,2025-12-09
+62,33,Bengaluru,Mouse,52101,1,Net Banking,2025-01-20
+63,48,Chennai,Mouse,54015,4,Cash,2025-06-06
+64,32,Chennai,Laptop,43755,2,Net Banking,2025-06-18
+65,35,Madurai,Keyboard,23512,5,Net Banking,2025-12-14
+66,52,Bengaluru,Laptop,8059,3,Card,2025-10-25
+67,34,Madurai,Laptop,39596,4,Cash,2025-06-10
+68,45,Hyderabad,Headphones,8078,4,Card,2025-05-11
+69,20,Kochi,Laptop,34573,5,Card,2025-07-06
+70,45,Madurai,Keyboard,41339,3,UPI,2025-06-03
+71,50,Bengaluru,Monitor,21876,4,Cash,2025-10-11
+72,26,Chennai,Monitor,44076,4,Card,2025-11-12
+73,54,Bengaluru,Monitor,36409,1,Cash,2025-05-27
+74,31,Kochi,Headphones,40258,3,Net Banking,2025-08-15
+75,46,Chennai,Headphones,31510,2,UPI,2025-05-26
+76,50,Hyderabad,Keyboard,6620,2,Cash,2025-04-26
+77,30,Chennai,Laptop,3528,2,Net Banking,2025-11-09
+78,22,Kochi,Monitor,58573,5,Card,2025-12-23
+79,42,Kochi,Monitor,16489,2,UPI,2025-02-24
+80,45,Chennai,Mouse,53198,5,Net Banking,2025-01-26
+81,53,Chennai,Laptop,30414,2,Net Banking,2025-12-08
+82,51,Hyderabad,Headphones,21294,4,Net Banking,2025-10-08
+83,46,Chennai,Monitor,29995,3,Card,2025-11-23
+84,35,Hyderabad,Monitor,41574,2,Cash,2025-08-14
+85,22,Bengaluru,Mouse,18307,3,Cash,2025-10-04
+86,23,Chennai,Mouse,15655,4,Card,2025-12-28
+87,31,Madurai,Monitor,27212,3,Net Banking,2025-08-01
+88,21,Chennai,Monitor,26024,5,UPI,2025-10-22
+89,42,Kochi,Laptop,23552,3,Net Banking,2025-08-03
+90,52,Hyderabad,Headphones,59338,2,Net Banking,2025-04-23
+91,35,Kochi,Monitor,2402,4,Cash,2025-12-09
+92,43,Chennai,Monitor,8864,5,UPI,2025-07-21
+93,55,Hyderabad,Laptop,6001,4,Card,2025-08-25
+94,29,Madurai,Keyboard,25344,3,Card,2025-08-21
+95,38,Bengaluru,Monitor,18735,4,Cash,2025-02-11
+96,48,Madurai,Headphones,3913,3,Card,2025-11-29
+97,22,Madurai,Laptop,16705,2,UPI,2025-11-15
+98,27,Chennai,Mouse,31535,1,Card,2025-08-27
+99,34,Bengaluru,Mouse,40207,5,UPI,2025-03-25
+100,37,Madurai,Headphones,2182,3,Net Banking,2025-07-23
