@@ -1,0 +1,13 @@
+Date,Month,Product,Region,Sales,Profit,Units_Sold,Customer_Rating
+2025-01-01,Jan,Laptop,North,1200,240,12,4.5
+2025-02-01,Feb,Laptop,South,1350,270,14,4.6
+2025-03-01,Mar,Laptop,East,1500,320,15,4.7
+2025-04-01,Apr,Laptop,West,1450,300,14,4.4
+2025-05-01,May,Laptop,North,1600,350,16,4.8
+2025-06-01,Jun,Laptop,South,1700,380,18,4.9
+2025-07-01,Jul,Laptop,East,1650,360,17,4.7
+2025-08-01,Aug,Laptop,West,1800,420,19,4.8
+2025-09-01,Sep,Laptop,North,1750,400,18,4.6
+2025-10-01,Oct,Laptop,South,1900,450,20,4.9
+2025-11-01,Nov,Laptop,East,2100,500,22,4.8
+2025-12-01,Dec,Laptop,West,2300,580,24,5.0
